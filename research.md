@@ -14,8 +14,6 @@ Our work lies at the intersection of social psychology, intergroup relations, an
 
 ## 1. Empowerment Narratives and Intergroup Solidarity
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
-
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
 <div class="res-project-badge">PI</div>
@@ -24,6 +22,8 @@ Our work lies at the intersection of social psychology, intergroup relations, an
 <div class="res-project-meta">PID2023-151315OA-I00 · 2024–2027 · €166,625 + 1 FPI</div>
 </div>
 </div>
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 
 Can stories change minds — and move people to act? This is the central question of the [**HERMES project**](https://hermesproject.es/), funded by the Spanish Ministry of Science and Universities.
@@ -72,8 +72,6 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 
 ## 3. Discrimination and Stigma
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
-
 <div class="res-funding-col">
 <div class="res-project-card team-card">
 <div class="res-project-badge">Team member</div>
@@ -82,6 +80,8 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 <div class="res-project-meta">2024–2025 · €72,588</div>
 </div>
 </div>
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Discrimination is not only a social injustice — it has measurable consequences for the health, well-being, and agency of those who experience it. We examine how stigma and structural discrimination operate against frequently criminalised groups, and what can be done to reduce them.
 
@@ -97,8 +97,6 @@ Discrimination is not only a social injustice — it has measurable consequences
 
 ## 4. Collapse Narratives and Collective Action
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_collapse.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
-
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
 <div class="res-project-badge">PI</div>
@@ -107,6 +105,8 @@ Discrimination is not only a social injustice — it has measurable consequences
 <div class="res-project-meta">US25/33 · 2026–2027 · €36,000</div>
 </div>
 </div>
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_collapse.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 How do people respond — emotionally and behaviourally — when confronted with narratives of systemic collapse? As climate breakdown, democratic erosion, and social fragmentation become prominent cultural themes, we ask how collapse narratives shape collective motivation, solidarity, and action.
 
@@ -123,8 +123,6 @@ How do people respond — emotionally and behaviourally — when confronted with
 ---
 
 ## 5. Emotions in Intergroup and Social Contexts
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
@@ -146,6 +144,8 @@ How do people respond — emotionally and behaviourally — when confronted with
 <div class="res-project-meta">LL2020-2 · 2020–2021 · €17,000</div>
 </div>
 </div>
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Emotions are not just reactions — they shape how we perceive, judge, and respond to members of other groups. We study emotional expression and self-transcendent emotions as forces in intergroup relations.
 
@@ -175,8 +175,6 @@ We investigate which individual factors (e.g., personality, self-construal) and 
 
 ## 7. Collective Memory, Violence, and Social Justice
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
-
 <div class="res-funding-col">
 <div class="res-project-card team-card">
 <div class="res-project-badge">Team member</div>
@@ -185,6 +183,8 @@ We investigate which individual factors (e.g., personality, self-construal) and 
 <div class="res-project-meta">2026–2027 · €50,000</div>
 </div>
 </div>
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Historical memory shapes present-day intergroup relations. This line examines how colonial legacies, transitional justice institutions, and peace processes configure attitudes toward reconciliation, solidarity, and political self-determination.
 
