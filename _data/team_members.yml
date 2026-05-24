@@ -1,5 +1,5 @@
 - name: Magdalena Bobowik
-  photo: bobowik.jpg
+  photo: placeholder.jpg
   info: Principal Investigator – Ramón y Cajal / Ikerbasque Researcher, UPV/EHU; HERMES Project Lead
   email: magdalena.bobowik@ehu.eus
   number_educ: 4
@@ -8,23 +8,23 @@
   education3: Ramón y Cajal Fellow, UPV/EHU
   education4: Research interests – social justice, diversity, inclusivity, democratic culture, multicultural and post-conflict societies
 
-- name: Lorena Gil de Montes
-  photo: gilmontes.jpg
-  info: Associate Professor, Department of Social Psychology, UPV/EHU
-  email: lorena.gilmontes@ehu.eus
-  number_educ: 1
-  education1: Research interests – social psychology, health, politics, and collective meaning-making in uncertain contexts
-
 - name: Maitane Arnoso
-  photo: arnoso.jpg
+  photo: placeholder.jpg
   info: Principal Investigator – Professor, Department of Social Psychology, UPV/EHU
   email: maitane.arnoso@ehu.eus
   number_educ: 2
   education1: PhD in Political and Administration Sciences
   education2: Research interests – political violence, collective memory, transitional justice; President of SOS Racismo Gipuzkoa
 
+- name: Lorena Gil de Montes
+  photo: placeholder.jpg
+  info: Associate Professor, Department of Social Psychology, UPV/EHU
+  email: lorena.gilmontes@ehu.eus
+  number_educ: 1
+  education1: Research interests – social psychology, health, politics, and collective meaning-making in uncertain contexts
+
 - name: Elia Soler Pastor
-  photo: soler.jpg
+  photo: placeholder.jpg
   info: Postdoctoral Researcher, UPV/EHU; Managing Editor, International Journal of Social Psychology
   email: elia.soler@ehu.eus
   number_educ: 2
@@ -32,7 +32,7 @@
   education2: Research interests – intercultural experiences, solidarity, and collective action
 
 - name: Pablo Castro-Abril
-  photo: castro.jpg
+  photo: placeholder.jpg
   info: Postdoctoral Researcher, UPV/EHU
   email: pablo.castro@ehu.eus
   number_educ: 2
@@ -40,7 +40,7 @@
   education2: Research interests – peacebuilding, forgiveness, social reconciliation in conflict contexts
 
 - name: Sheila Azcoitia
-  photo: azcoitia.jpg
+  photo: placeholder.jpg
   info: Assistant Professor, Department of Nursing I, UPV/EHU
   email: sheila.azcoitia@ehu.eus
   number_educ: 2
