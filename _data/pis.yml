@@ -1,0 +1,24 @@
+- name: Magdalena Bobowik
+  photo: hermes-magda.jpg
+  info: Principal Investigator – Ramón y Cajal / Ikerbasque Researcher, UPV/EHU; HERMES Project Lead
+  email: m.bobowik@ehu.eus
+  number_educ: 4
+  education1: PhD in Social Psychology, University of the Basque Country (2013)
+  education2: Marie Skłodowska-Curie Postdoc, Utrecht University / ERCOMER
+  education3: Ramón y Cajal Fellow, UPV/EHU
+  education4: Research interests – social justice, diversity, inclusivity, democratic culture, multicultural and post-conflict societies
+
+- name: Maitane Arnoso
+  photo: hermes-maitane.jpg
+  info: Principal Investigator – Professor, Department of Social Psychology, UPV/EHU
+  email: maitane.arnoso@ehu.eus
+  number_educ: 2
+  education1: PhD in Political and Administration Sciences
+  education2: Research interests – political violence, collective memory, transitional justice; President of SOS Racismo Gipuzkoa
+
+- name: Lorena Gil de Montes
+  photo: hermes-lorena.jpg
+  info: Associate Professor, Department of Social Psychology, UPV/EHU
+  email: lorena.gilmontes@ehu.eus
+  number_educ: 1
+  education1: Research interests – social psychology, health, politics, and collective meaning-making in uncertain contexts
