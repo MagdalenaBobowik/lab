@@ -17,13 +17,13 @@ Jump to [principal investigators](#principal-investigators), [professors](#profe
 {% assign number_printed = 0 %}
 {% for member in site.data.pis %}
 
-{% assign mod3 = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
-{% if mod3 == 0 %}
+{% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive teampic" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
@@ -56,14 +56,14 @@ Jump to [principal investigators](#principal-investigators), [professors](#profe
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if mod3 == 2 %}
+{% if even_odd == 1 %}
 </div>
 {% endif %}
 
 {% endfor %}
 
-{% assign mod3 = number_printed | modulo: 3 %}
-{% if mod3 != 0 %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
 </div>
 {% endif %}
 
@@ -114,13 +114,13 @@ Jump to [principal investigators](#principal-investigators), [professors](#profe
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
 
-{% assign mod3 = number_printed | modulo: 3 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
-{% if mod3 == 0 %}
+{% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive teampic" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
@@ -146,14 +146,14 @@ Jump to [principal investigators](#principal-investigators), [professors](#profe
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if mod3 == 2 %}
+{% if even_odd == 1 %}
 </div>
 {% endif %}
 
 {% endfor %}
 
-{% assign mod3 = number_printed | modulo: 3 %}
-{% if mod3 != 0 %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
 </div>
 {% endif %}
 
