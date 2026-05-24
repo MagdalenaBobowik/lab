@@ -22,6 +22,26 @@ figcaption {
 
 
 /* Top navigation bar */
+.navbar-default {
+  background-color: #2C4770;
+  border-color: #1e3454;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+  color: #dce6f5;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffffff;
+  background-color: rgba(255,255,255,0.1);
+}
+.navbar-default .navbar-toggle {
+  border-color: #4a6fa5;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #dce6f5;
+}
 
 
 p.byline {
