@@ -4,7 +4,6 @@ layout: gridlay
 excerpt: "Intergroup Dynamics Lab – Research Highlights"
 sitemap: false
 permalink: /highlights/
-published: false
 ---
 
 # Research Highlights
