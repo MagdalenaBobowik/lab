@@ -2,6 +2,16 @@
 from PIL import Image, ImageDraw
 import math
 
+
+def draw_person(d, cx, cy, sz, color, lw):
+    """Outline-style person icon: circle head + shoulder arc."""
+    rh  = int(sz * 0.20)
+    hcy = int(cy - sz * 0.27)
+    d.ellipse([cx-rh, hcy-rh, cx+rh, hcy+rh], outline=(*color, 255), width=lw)
+    rb  = int(sz * 0.46)
+    bcy = int(cy + sz * 0.18)
+    d.arc([cx-rb, bcy-rb, cx+rb, bcy+rb], 200, 340, fill=(*color, 255), width=lw)
+
 PURPLE = (123, 50, 165)
 ORANGE = (242, 158, 0)
 WHITE  = (255, 255, 255)
@@ -82,25 +92,28 @@ save(img, "res_interactions")
 
 
 # ── 3. Discrimination & Stigma ─────────────────────────────────────────────
-# Parallel horizontal bands — one band cut short and highlighted differently
+# Groups of 3 purple people + 1 isolated orange person, repeated 3× across width
 img = canvas(); d = ImageDraw.Draw(img)
-n_bars = 7
-pad_y  = int(HS * 0.10)
-bar_h  = (HS - 2 * pad_y) // n_bars
-gap    =  4 * SCALE
-for i in range(n_bars):
-    y1 = pad_y + i * bar_h
-    y2 = y1 + bar_h - gap
-    if i == 2:
-        x1 = int(WS * 0.20)
-        x2 = int(WS * 0.60)
-        d.rectangle([x1, y1, x2, y2], fill=(*ORANGE, 230))
-        for xm in (x1, x2):
-            d.line([(xm, y1), (xm, y2)], fill=(*WHITE, 255), width=5*SCALE)
-    else:
-        x1 = int(WS * 0.04)
-        x2 = int(WS * 0.96)
-        d.rectangle([x1, y1, x2, y2], fill=(*PURPLE, 190))
+sz      = int(HS * 0.50)          # person icon height
+lw      = 6 * SCALE
+gap_grp = int(sz * 0.40)          # spacing between group members
+n_reps  = 3
+rep_w   = WS // n_reps
+grp_cy  = int(HS * 0.36)         # group vertical centre (upper area)
+iso_cy  = int(HS * 0.72)         # isolated person centre (lower area)
+
+for rep in range(n_reps):
+    cx_rep = rep * rep_w + rep_w // 2
+
+    # Group of 3 (purple) — slightly left of each repetition centre
+    grp_cx = cx_rep - int(rep_w * 0.16)
+    for j in [-1, 0, 1]:
+        draw_person(d, grp_cx + j * gap_grp, grp_cy, sz, PURPLE, lw)
+
+    # Isolated person (orange) — right of group, lower position
+    iso_cx = cx_rep + int(rep_w * 0.28)
+    draw_person(d, iso_cx, iso_cy, int(sz * 0.88), ORANGE, lw)
+
 save(img, "res_discrimination")
 
 
