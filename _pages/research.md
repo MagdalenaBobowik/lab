@@ -12,15 +12,25 @@ Our work sits at the intersection of social psychology, intergroup relations, an
 
 ---
 
-## 1. Discrimination and Stigma
+## 1. Empowerment Narratives and Intergroup Solidarity
 
-Discrimination is not only a social injustice — it has measurable consequences for the health, well-being, and agency of those who experience it. We examine how stigma and structural discrimination operate against frequently criminalised groups, and what can be done to reduce them.
+Can stories change minds — and move people to act? This is the central question of the [**HERMES project**](https://hermesproject.es/), funded by the Spanish Ministry of Science and Universities.
 
-**Stigma and migrants.** We study stereotyping and criminalisation processes against migrant populations — including perceptions of dangerousness, and their consequences for social cohesion and collective action. A particular focus is on migrant women in domestic and care work, examining how intersectional discrimination affects mental health and civic participation. This work connects experimental and survey methods with qualitative approaches, and is developed in collaboration with civil society organisations including SOS Racismo Gipuzkoa.
+We investigate whether narratives about role models from disadvantaged groups — people who resist systemic discrimination and defy structural barriers — can catalyse social change in two directions: shifting attitudes among advantaged groups, and strengthening collective empowerment within disadvantaged communities.
 
-**Stigma of schizophrenia.** We compare cognitive, affective, and behavioural responses toward people living with schizophrenia among nursing professionals and the general public. We identify which factors maintain stigma, and how interventions — including academic training and contact-based approaches — can reduce it.
+**Migrants.** Working with large-scale online experiments and ecologically valid field settings, we test how individual versus collective empowerment narratives shape solidarity intentions and group empowerment among both migrants and host-culture members.
 
-*Key questions:* How do criminalisation and hate speech shape attitudes toward migrants? What are the mental health consequences of perceived discrimination? How do intersecting identities (gender, ethnicity, migration status) compound stigma?
+**Migrant women in care work.** Co-created with partner organisations, these narratives are tested experimentally and presented in audiovisual exhibition formats to assess their effects on solidarity and collective action.
+
+**Women in the music industry.** We explore empowerment narratives of women and dissidents in the music industry and their effects on intra- and intergroup solidarity, in collaboration with cultural festivals and artistic collectives.
+
+**Mental health.** We study the use of empowerment narratives by people with mental disorders as tools for reducing stigma and fostering solidarity.
+
+**Indigenous peoples.** Focusing on communities in Peru, we examine how indigenous resistance narratives generate intergroup solidarity and decolonial alliances, including transfer effects to other discriminated groups.
+
+HERMES connects experimental science with real-world interventions — including immersive virtual reality experiences and co-designed audiovisual exhibitions — to measure genuine solidarity behaviour beyond self-report.
+
+*Key questions:* When do role model narratives shift perceptions of empowerment among advantaged groups? How do collective (vs. individual) narratives affect in-group empowerment? What makes solidarity behaviour real and lasting?
 
 ---
 
@@ -42,25 +52,15 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 
 ---
 
-## 3. Empowerment Narratives and Intergroup Solidarity
+## 3. Discrimination and Stigma
 
-Can stories change minds — and move people to act? This is the central question of the [**HERMES project**](https://hermesproject.es/), funded by the Spanish Ministry of Science and Universities.
+Discrimination is not only a social injustice — it has measurable consequences for the health, well-being, and agency of those who experience it. We examine how stigma and structural discrimination operate against frequently criminalised groups, and what can be done to reduce them.
 
-We investigate whether narratives about role models from disadvantaged groups — people who resist systemic discrimination and defy structural barriers — can catalyse social change in two directions: shifting attitudes among advantaged groups, and strengthening collective empowerment within disadvantaged communities.
+**Stigma and migrants.** We study stereotyping and criminalisation processes against migrant populations — including perceptions of dangerousness, and their consequences for social cohesion and collective action. A particular focus is on migrant women in domestic and care work, examining how intersectional discrimination affects mental health and civic participation. This work connects experimental and survey methods with qualitative approaches, and is developed in collaboration with civil society organisations including SOS Racismo Gipuzkoa.
 
-**Migrants.** Working with large-scale online experiments and ecologically valid field settings, we test how individual versus collective empowerment narratives shape solidarity intentions and group empowerment among both migrants and host-culture members.
+**Stigma of schizophrenia.** We compare cognitive, affective, and behavioural responses toward people living with schizophrenia among nursing professionals and the general public. We identify which factors maintain stigma, and how interventions — including academic training and contact-based approaches — can reduce it.
 
-**Migrant women in care work.** Co-created with partner organisations, these narratives are tested experimentally and presented in audiovisual exhibition formats to assess their effects on solidarity and collective action.
-
-**Women in the music industry.** We explore empowerment narratives of women and dissidents in the music industry and their effects on intra- and intergroup solidarity, in collaboration with cultural festivals and artistic collectives.
-
-**Mental health.** We study the use of empowerment narratives by people with mental disorders as tools for reducing stigma and fostering solidarity.
-
-**Indigenous peoples.** Focusing on communities in Peru, we examine how indigenous resistance narratives generate intergroup solidarity and decolonial alliances, including transfer effects to other discriminated groups.
-
-HERMES connects experimental science with real-world interventions — including immersive virtual reality experiences and co-designed audiovisual exhibitions — to measure genuine solidarity behaviour beyond self-report.
-
-*Key questions:* When do role model narratives shift perceptions of empowerment among advantaged groups? How do collective (vs. individual) narratives affect in-group empowerment? What makes solidarity behaviour real and lasting?
+*Key questions:* How do criminalisation and hate speech shape attitudes toward migrants? What are the mental health consequences of perceived discrimination? How do intersecting identities (gender, ethnicity, migration status) compound stigma?
 
 ---
 
