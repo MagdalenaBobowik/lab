@@ -1,11 +1,22 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Irene Cisma
+  photo:
+  info: PhD Candidate in Social Psychology, UPV/EHU; Media Editor, International Journal of Social Psychology
+  email:
+  number_educ: 2
+  education1: Background in Communication and Neuroscience
+  education2: Research – empowerment narratives and digital intervention impacts; migrant collective action and solidarity
 
+- name: El Galia Mokhtar Mohamed
+  photo:
+  info: PhD Candidate in Social Psychology, UPV/EHU; Media Editor, International Journal of Social Psychology
+  email:
+  number_educ: 2
+  education1: Research stay at ERCOMER, Utrecht University
+  education2: Research – intergroup contact's influence on immigrant women's well-being and empowerment
 
+- name: Leire Agate Amenabar Larrañaga
+  photo:
+  info: PhD Student, Department of Social Psychology, UPV/EHU
+  email:
+  number_educ: 1
+  education1: Research – linguistic community relations in the Basque Country, acculturation processes

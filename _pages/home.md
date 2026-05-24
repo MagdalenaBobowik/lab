@@ -1,18 +1,16 @@
 ---
-title: "Allan Lab - Home"
+title: "Bobowik Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Bobowik Lab at UPV/EHU"
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+We are a social psychology research group at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/), part of the **Culture, Cognition, and Emotion** Consolidated Research Group (IT1598-22).
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+Our research investigates **social justice, diversity, and solidarity** in multicultural and post-conflict societies. We study how people perceive and respond to social disadvantage, and how narratives — especially those centred on role models from marginalised communities — can catalyse empowerment and social change. To do this, we combine online experiments, field experiments in exhibition settings, and Virtual Reality (VR) interventions.
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+Our flagship project is [**HERMES** (Healing Effects of Role Models for Empowerment and Solidarity)](https://hermesproject.es/), funded by the Spanish Ministry of Science and Universities (PID2023-151315OA-100). HERMES investigates whether narratives about role models from disadvantaged groups who overcome systemic barriers can shift perceptions among privileged groups and foster solidarity within marginalised communities.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -20,31 +18,18 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider3.jpg" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -57,19 +42,12 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
   </a>
 </div>
 
+We are part of the [Department of Social Psychology and Methodology of Behavioural Sciences](https://www.ehu.eus/en/web/psikologia-soziala) at UPV/EHU, and we collaborate closely with international partners in Italy, the Czech Republic, and the Netherlands, as well as civil society organisations working on human rights and migration.
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
-
-
-
+**We welcome inquiries from prospective PhD students and postdoctoral researchers interested in our research areas.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_upvehu.png" style="width: 160px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_minciencia.png" style="width: 160px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ikerbasque.png" style="width: 130px">
 </figure>

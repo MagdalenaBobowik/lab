@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Team"
+title: "Bobowik Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Bobowik Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for new PhD students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
@@ -192,5 +192,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+## International Collaborators
+
+- **Dr. Emanuele Politi** — Associate Professor of Social Psychology, University of Trento, Italy. Expertise: forced migration, displacement, and socio-ecological approaches to migration.
+- **Dr. Mirjana Rupar** — Research Scientist, Institute of Psychology, Czech Academy of Sciences. Expertise: intergroup relations, conflict reconciliation, mass media.
+- **Dr. Borja Martinovic** — Associate Professor, ERCOMER, Utrecht University. Expertise: group identities, immigrant integration, intergroup relations.
