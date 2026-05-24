@@ -21,7 +21,7 @@ permalink: /news/
  <div class="well">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ article.image }}" class="img-responsive" width="33%" style="float: left" />
   <pubtit>{{ article.date }} &mdash; {{ article.category }}</pubtit>
-  <p>{{ article.headline | markdownify }}</p>
+  <div>{{ article.headline | markdownify }}</div>
  </div>
 </div>
 
