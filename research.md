@@ -88,15 +88,6 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 
 ## 3. Discrimination and Stigma
 
-<div class="res-funding-col">
-<div class="res-project-card team-card">
-<div class="res-project-badge">Team member</div>
-<div class="res-project-name">Consolidated Research Group "Culture, Cognition, and Emotion"</div>
-<div class="res-project-funder">Basque Government</div>
-<div class="res-project-meta">2022–2025 · €237,469</div>
-</div>
-</div>
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Discrimination is not only a social injustice — it has measurable consequences for the health, well-being, and agency of those who experience it. We examine how stigma and structural discrimination operate against frequently criminalised groups, and what can be done to reduce them.
