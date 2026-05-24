@@ -14,10 +14,7 @@ Our work lies at the intersection of social psychology, intergroup relations, an
 
 ## 1. Empowerment Narratives and Intergroup Solidarity
 
-<div class="res-line-left">
-<div class="res-line-title-sq">1. Empowerment Narratives and Intergroup Solidarity</div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
-</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
@@ -53,10 +50,7 @@ HERMES connects experimental science with real-world interventions — including
 
 ## 2. Intergroup Interactions and Alliances
 
-<div class="res-line-left">
-<div class="res-line-title-sq">2. Intergroup Interactions and Alliances</div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_interactions.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
-</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_interactions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Beyond prejudice reduction, we ask how contact and shared identities generate genuine solidarity and empower disadvantaged communities.
 
@@ -78,10 +72,7 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 
 ## 3. Discrimination and Stigma
 
-<div class="res-line-left">
-<div class="res-line-title-sq">3. Discrimination and Stigma</div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
-</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 <div class="res-funding-col">
 <div class="res-project-card team-card">
@@ -106,10 +97,7 @@ Discrimination is not only a social injustice — it has measurable consequences
 
 ## 4. Collapse Narratives and Collective Action
 
-<div class="res-line-left">
-<div class="res-line-title-sq">4. Collapse Narratives and Collective Action</div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_collapse.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
-</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_collapse.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
@@ -136,10 +124,7 @@ How do people respond — emotionally and behaviourally — when confronted with
 
 ## 5. Emotions in Intergroup and Social Contexts
 
-<div class="res-line-left">
-<div class="res-line-title-sq">5. Emotions in Intergroup and Social Contexts</div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
-</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
@@ -176,10 +161,7 @@ Emotions are not just reactions — they shape how we perceive, judge, and respo
 
 ## 6. Social Rituals and Collective Emotions
 
-<div class="res-line-left">
-<div class="res-line-title-sq">6. Social Rituals and Collective Emotions</div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_rituals.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
-</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_rituals.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Collective rituals — from concerts to community gatherings — generate *collective effervescence* (CE): a heightened emotional state arising from shared synchrony between participants. Prior work in our group has shown CE contributes to well-being and social cohesion.
 
@@ -193,10 +175,7 @@ We investigate which individual factors (e.g., personality, self-construal) and 
 
 ## 7. Collective Memory, Violence, and Social Justice
 
-<div class="res-line-left">
-<div class="res-line-title-sq">7. Collective Memory, Violence, and Social Justice</div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
-</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 <div class="res-funding-col">
 <div class="res-project-card team-card">
