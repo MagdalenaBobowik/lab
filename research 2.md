@@ -3,7 +3,8 @@ title: "Intergroup Dynamics Lab - Research"
 layout: textlay
 excerpt: "Intergroup Dynamics Lab -- Research"
 sitemap: false
-permalink: /research/
+permalink: /research-old/
+published: false
 ---
 
 # Research
