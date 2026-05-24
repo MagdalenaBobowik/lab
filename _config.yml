@@ -10,8 +10,8 @@ title: Intergroup Dynamics Lab
 email: magdalena.bobowik@ehu.eus
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Intergroup Dynamics Lab – Culture, Cognition & Emotion group at UPV/EHU.
-baseurl: ""
-url: ""
+baseurl: "/lab"
+url: "https://magdalenabobowik.github.io"
 
 include:
   - .htaccess

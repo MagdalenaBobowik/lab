@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Intergroup Dynamics Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Intergroup Dynamics Lab -- Pictures"
 permalink: /pictures/
 ---
 
