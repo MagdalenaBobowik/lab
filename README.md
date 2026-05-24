@@ -1,6 +1,6 @@
-# Bobowik Lab Website
+# Intergroup Dynamics Lab Website
 
-This is the website of the **Bobowik Lab** — the Culture, Cognition & Emotion research group at the University of the Basque Country (UPV/EHU), led by Dr. Magdalena Bobowik.
+This is the website of the **Intergroup Dynamics Lab** — the Culture, Cognition & Emotion research group at the University of the Basque Country (UPV/EHU), led by Dr. Magdalena Bobowik and Dr. Maitane Arnoso.
 
 The site is built with [Jekyll](https://jekyllrb.com/) and Bootstrap, based on the [Allan Lab template](https://www.allanlab.org/aboutwebsite.html).
 

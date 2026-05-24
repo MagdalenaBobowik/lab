@@ -1,7 +1,7 @@
 ---
-title: "Bobowik Lab - Publications"
+title: "Intergroup Dynamics Lab - Publications"
 layout: gridlay
-excerpt: "Bobowik Lab -- Publications."
+excerpt: "Intergroup Dynamics Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

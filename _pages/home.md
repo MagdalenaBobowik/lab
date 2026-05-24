@@ -1,7 +1,7 @@
 ---
-title: "Bobowik Lab - Home"
+title: "Intergroup Dynamics Lab - Home"
 layout: homelay
-excerpt: "Bobowik Lab at UPV/EHU"
+excerpt: "Intergroup Dynamics Lab at UPV/EHU"
 sitemap: false
 permalink: /
 ---

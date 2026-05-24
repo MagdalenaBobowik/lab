@@ -1,7 +1,7 @@
 ---
-title: "Bobowik Lab - Research"
+title: "Intergroup Dynamics Lab - Research"
 layout: textlay
-excerpt: "Bobowik Lab – Research"
+excerpt: "Intergroup Dynamics Lab – Research"
 sitemap: false
 permalink: /research/
 ---

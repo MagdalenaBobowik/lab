@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Bobowik Lab
+title: Intergroup Dynamics Lab
 email: magdalena.bobowik@ehu.eus
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the Bobowik Lab – Culture, Cognition & Emotion group at UPV/EHU.
+  Website of the Intergroup Dynamics Lab – Culture, Cognition & Emotion group at UPV/EHU.
 baseurl: ""
 url: ""
 

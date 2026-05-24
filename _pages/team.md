@@ -1,7 +1,7 @@
 ---
-title: "Bobowik Lab - Team"
+title: "Intergroup Dynamics Lab - Team"
 layout: gridlay
-excerpt: "Bobowik Lab: Team members"
+excerpt: "Intergroup Dynamics Lab: Team members"
 sitemap: false
 permalink: /team/
 ---

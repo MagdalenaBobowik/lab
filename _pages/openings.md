@@ -1,5 +1,5 @@
 ---
-title: "Bobowik Lab - Vacancies"
+title: "Intergroup Dynamics Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -26,4 +26,4 @@ We occasionally supervise master's and bachelor's theses. If you are a student a
 
 ---
 
-To get in touch, email the PI at [magdalena.bobowik@ehu.eus](mailto:magdalena.bobowik@ehu.eus). Please include a brief description of your research interests and your CV.
+To get in touch, email the PIs at [magdalena.bobowik@ehu.eus](mailto:magdalena.bobowik@ehu.eus) or [maitane.arnoso@ehu.eus](mailto:maitane.arnoso@ehu.eus). Please include a brief description of your research interests and your CV.
