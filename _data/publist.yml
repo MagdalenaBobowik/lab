@@ -3,19 +3,21 @@
 - title: "Smiling across borders: Host culture members' reactions to happiness expressed by immigrants"
   image:
   description:
+  year: 2026
   authors: Bobowik, M., Pizarro, J. J., Slawuta, P., & Basabe, N.
   link:
     url: https://doi.org/10.1111/bjso.70030
-    display: British Journal of Social Psychology, 65(1), e70030 (2026)
+    display: British Journal of Social Psychology, 65(1), e70030
   highlight: 0
 
 - title: "The link between subaltern and global identities and expectations of immigrants' linguistic acculturation"
   image:
   description:
+  year: 2026
   authors: Amenabar-Larranaga, L., Arnoso Martínez, M., Rupar, M., & Bobowik, M.
   link:
     url: https://doi.org/10.1177/00220221261431741
-    display: Journal of Cross-Cultural Psychology (advance online publication, 2026)
+    display: Journal of Cross-Cultural Psychology (advance online publication)
   highlight: 0
 
 # 2025
@@ -23,37 +25,41 @@
 - title: "Social identity, collective self-esteem, and musical preferences in electronic dance music culture"
   image:
   description:
+  year: 2025
   authors: Mínguez-Alcaide, X., & Bobowik, M.
   link:
     url: https://doi.org/10.1177/03057356251361754
-    display: Psychology of Music (advance online publication, 2025)
+    display: Psychology of Music (advance online publication)
   highlight: 0
 
 - title: "Collective memories and understandings of human societies"
   image:
   description:
+  year: 2025
   authors: Figueiredo, A., Bobowik, M., & Politi, E.
   link:
     url: https://doi.org/10.1017/S0140525X2400116X
-    display: Behavioral & Brain Sciences, 48, e62 (2025)
+    display: Behavioral & Brain Sciences, 48, e62
   highlight: 0
 
 - title: "Toward a decolonization of personality psychology: A commentary on 'Reconsidering normative interpretations in personality research'"
   image:
   description:
+  year: 2025
   authors: Soler-Pastor, E., Bobowik, M., & Benet-Martínez, V.
   link:
     url: https://doi.org/10.1177/08902070241272
-    display: European Journal of Personality (advance online publication, 2025)
+    display: European Journal of Personality (advance online publication)
   highlight: 0
 
 - title: "News media consumption and support for counter-terrorism measures: The role of hatred and fear"
   image:
   description:
+  year: 2025
   authors: Arnoso-Martínez, M., Bobowik, M., González-Ortega, N., & Martinović, B.
   link:
     url: https://doi.org/10.1080/00224545.2024.2356814
-    display: The Journal of Social Psychology, 165(3), 374–389 (2025)
+    display: The Journal of Social Psychology, 165(3), 374–389
   highlight: 0
 
 # 2024
@@ -61,64 +67,71 @@
 - title: "Moral exemplars promote positive attitudes, beliefs, intentions, and behaviors toward outgroups during the COVID-19 pandemic: The explanatory role of self-transcendent emotions"
   image: pub_moral_exemplars.png
   description: Can stories of moral courage change how we feel about outgroups? We show that exposure to moral exemplars promotes positive attitudes and prosocial behaviours toward outgroups during the COVID-19 pandemic, with self-transcendent emotions explaining why.
+  year: 2024
   authors: Alonso-Arbiol, I., Bobowik, M., Pascual, A., Conejero, S., & Padoan, S.
   link:
     url: https://doi.org/10.1177/13684302231165730
-    display: Group Processes & Intergroup Relations, 27(1), 118–141 (2024)
+    display: Group Processes & Intergroup Relations, 27(1), 118–141
   highlight: 1
 
 - title: "The 'hidden side' of intergroup contact: The role of perceived social structure in motivating support for social change among the disadvantaged and the advantaged"
   image: pub_hidden_contact.png
   description: "Intergroup contact is often celebrated as a path to tolerance — but for whom, and toward what end? We reveal a hidden side: how people perceive the broader social structure shapes whether contact motivates disadvantaged groups to seek change or accept the status quo."
+  year: 2024
   authors: Bobowik, M., Zumeta, L. N., Pizarro, J. J., Basabe, N., & Moreno, G.
   link:
     url: https://doi.org/10.1177/13684302231175864
-    display: Group Processes & Intergroup Relations, 27(3), 497–520 (2024)
+    display: Group Processes & Intergroup Relations, 27(3), 497–520
   highlight: 1
 
 - title: "European attachment and restrictive and inclusive policies towards ethnic minorities and immigrants: The mediating role of perceived threat"
   image:
   description:
+  year: 2024
   authors: Arnoso-Martínez, M., Bobowik, M., González, N., Rupar, M., Arnoso-Martínez, A., & Gómez, D.
   link:
     url: https://doi.org/10.1177/13684302231199066
-    display: Group Processes & Intergroup Relations, 27(6), 1304–1330 (2024)
+    display: Group Processes & Intergroup Relations, 27(6), 1304–1330
   highlight: 0
 
 - title: "Support for unconditional basic income in Spain: A materialist or post-materialist issue?"
   image:
   description:
+  year: 2024
   authors: Guerendiain-Gabés, I., Gil de Montes, L., Bobowik, M., & Arnoso-Martínez, M.
   link:
     url: https://doi.org/10.1111/pops.12934
-    display: Political Psychology, 45(3), 455–473 (2024)
+    display: Political Psychology, 45(3), 455–473
   highlight: 0
 
 - title: "The link between anger and admiration toward governmental actions and self-reported preventive behaviour in the context of the COVID-19 pandemic"
   image:
   description:
+  year: 2024
   authors: Rupar, M., Bobowik, M., Sekerdej, M., Soler Pastor, E., Kołeczek, M., Jamróz-Dolińska, K., Ghorbani, F., & Mari, S.
   link:
     url: https://doi.org/10.1002/ijop.12961
-    display: International Journal of Psychology, 59(1), 172–183 (2024)
+    display: International Journal of Psychology, 59(1), 172–183
   highlight: 0
 
 - title: "The effects of refugees' emotional tears on felt emotions and helping behaviors"
   image:
   description:
+  year: 2024
   authors: Bobowik, M., Zickfeld, J. H., Martinović, B., & Verkuyten, M.
   link:
     url: https://doi.org/10.1016/j.ijintrel.2024.102091
-    display: International Journal of Intercultural Relations, 103, 102091 (2024)
+    display: International Journal of Intercultural Relations, 103, 102091
   highlight: 0
 
 - title: "Inaugural editorial"
   image:
   description:
+  year: 2024
   authors: Bobowik, M., de Lemus, S., Guerendiain, I., Ioannou, M., Navarro-Carrillo, G., et al.
   link:
     url:
-    display: International Journal of Social Psychology, 39(3), 409–414 (2024)
+    display: International Journal of Social Psychology, 39(3), 409–414
   highlight: 0
 
 # 2023
@@ -126,46 +139,51 @@
 - title: "When they cry: Tears facilitate responses toward members of socially disadvantaged groups"
   image: pub_when_they_cry.png
   description: Emotional tears are a powerful social signal. Across a series of experiments, we demonstrate that seeing members of disadvantaged groups cry increases empathy and helping intentions — even when the group is typically met with hostility or indifference.
+  year: 2023
   authors: Bobowik, M., Doroszuk, M., Slawuta, P., & Basabe, N.
   link:
     url: https://doi.org/10.1037/emo0001085
-    display: Emotion, 23(2), 521–537 (2023)
+    display: Emotion, 23(2), 521–537
   highlight: 1
 
 - title: "Who is willing to help Ukrainian refugees and why? The role of individual prosocial dispositions and superordinate European identity"
   image: pub_ukrainian_refugees.png
   description: Who steps up to help refugees — and why? We find that both individual prosocial dispositions and a sense of shared European identity predict willingness to help Ukrainian refugees, offering insight into how solidarity can be fostered at scale.
+  year: 2023
   authors: Politi, E., Gale, J., Roblain, A., Bobowik, M., & Green, E. G. T.
   link:
     url: https://doi.org/10.1002/casp.2689
-    display: Journal of Community & Applied Social Psychology, 33(4), 940–953 (2023)
+    display: Journal of Community & Applied Social Psychology, 33(4), 940–953
   highlight: 1
 
 - title: "Narratives of linguistic victimhood and majority groups' acculturation strategies and multilingual attitudes: The mediating role of intergroup empathy"
   image:
   description:
+  year: 2023
   authors: Amenabar-Larrañaga, L., Arnoso-Martínez, M., Rupar, M., & Bobowik, M.
   link:
     url: https://doi.org/10.1016/j.ijintrel.2023.101906
-    display: International Journal of Intercultural Relations, 97, 101906 (2023)
+    display: International Journal of Intercultural Relations, 97, 101906
   highlight: 0
 
 - title: "The effects of emotions on the disposition to normative and non-normative political action in the context of the Chilean post-social outburst"
   image:
   description:
+  year: 2023
   authors: Hatibovic, F., Sandoval, J., Faúndez, X., Gaete, J.-M., Bobowik, M., & Ilabaca, P.
   link:
     url: https://doi.org/10.3389/fpsyg.2023.1154501
-    display: Frontiers in Psychology, 14, 1154501 (2023)
+    display: Frontiers in Psychology, 14, 1154501
   highlight: 0
 
 - title: "Disentangling the link between diverse social networks and creativity: The role of personality traits"
   image:
   description:
+  year: 2023
   authors: Soler-Pastor, E., Bobowik, M., Benet-Martínez, V., & Repke, L.
   link:
     url: https://doi.org/10.1017/SJP.2023.9
-    display: The Spanish Journal of Psychology, 26, e10 (2023)
+    display: The Spanish Journal of Psychology, 26, e10
   highlight: 0
 
 # 2022
@@ -173,55 +191,61 @@
 - title: "'United in diversity': The interplay of social network characteristics and personality in predicting outgroup attitudes"
   image: pub_united_diversity.png
   description: Do diverse social networks make us more open-minded? We show that the ethnic diversity of one's personal network interacts with personality traits to predict outgroup attitudes — with important implications for how diversity policies shape social cohesion.
+  year: 2022
   authors: Bobowik, M., Benet-Martínez, V., & Repke, L.
   link:
     url: https://doi.org/10.1177/13684302211002918
-    display: Group Processes & Intergroup Relations, 25(5), 1175–1201 (2022)
+    display: Group Processes & Intergroup Relations, 25(5), 1175–1201
   highlight: 1
 
 - title: "Ethnocultural diversity of immigrants' personal social networks, bicultural identity integration and global identification"
   image:
   description:
+  year: 2022
   authors: Bobowik, M., Benet-Martínez, V., & Repke, L.
   link:
     url: https://doi.org/10.1002/ijop.12814
-    display: International Journal of Psychology, 57(4), 491–500 (2022)
+    display: International Journal of Psychology, 57(4), 491–500
   highlight: 0
 
 - title: "General inclusive victimhood predicts willingness to engage in intergroup contact: Findings from Bosnia-Herzegovina and the Basque Country"
   image:
   description:
+  year: 2022
   authors: Rupar, M., Bobowik, M., Arnoso, M., Arnoso, A. P., & Vollhardt, J. R.
   link:
     url: https://doi.org/10.1111/jasp.12835
-    display: Journal of Applied Social Psychology, 52(2), 71–84 (2022)
+    display: Journal of Applied Social Psychology, 52(2), 71–84
   highlight: 0
 
 - title: "Social intergroup and temporal intrapersonal comparisons: Responses to perceived discrimination and protective mechanisms of eudaimonic well-being"
   image:
   description:
+  year: 2022
   authors: Madi, D., Bobowik, M., Basabe, N., & Verkuyten, M.
   link:
     url: https://doi.org/10.1016/j.ijintrel.2021.10.007
-    display: International Journal of Intercultural Relations, 86, 74–84 (2022)
+    display: International Journal of Intercultural Relations, 86, 74–84
   highlight: 0
 
 - title: "Creativity and (global, ethnic, host) cultural identifications: An examination in migrant and host national samples"
   image:
   description:
+  year: 2022
   authors: Soler Pastor, E., Bobowik, M., & Benet Martínez, V.
   link:
     url: https://doi.org/10.3389/fpsyg.2022.1007034
-    display: Frontiers in Psychology, 13, 1007034 (2022)
+    display: Frontiers in Psychology, 13, 1007034
   highlight: 0
 
 - title: "Participation in multicultural awareness-raising community actions: Positive effects on well-being and group efficacy"
   image:
   description:
+  year: 2022
   authors: Zumeta, L. N., Bobowik, M., Basabe, N., & Wlodarczyk, A.
   link:
     url: https://doi.org/10.1037/cdp0000426
-    display: Cultural Diversity & Ethnic Minority Psychology, 28(3), 413–426 (2022)
+    display: Cultural Diversity & Ethnic Minority Psychology, 28(3), 413–426
   highlight: 0
 
 # 2021
@@ -229,46 +253,51 @@
 - title: "Tears evoke the intention to offer social support: A systematic investigation of the interpersonal effects of emotional crying across 41 countries"
   image: pub_tears_countries.png
   description: In this large-scale cross-national study spanning 41 countries, we show that emotional crying reliably evokes intentions to offer social support — a finding that holds across cultures and highlights the universal communicative power of tears in eliciting prosocial responses.
+  year: 2021
   authors: Zickfeld, J. H., Van De Ven, N., Pich, O., Schubert, T. W., Berkessel, J. B., Pizarro, J. J., et al.
   link:
     url: https://doi.org/10.1016/j.jesp.2021.104137
-    display: Journal of Experimental Social Psychology, 95, 104137 (2021)
+    display: Journal of Experimental Social Psychology, 95, 104137
   highlight: 1
 
 - title: "Mentoring for improving the self-esteem, resilience, and hope of unaccompanied migrant youth in the Barcelona metropolitan area"
   image:
   description:
+  year: 2021
   authors: Alarcón, X., Bobowik, M., & Prieto-Flores, Ò.
   link:
     url: https://doi.org/10.3390/ijerph18105210
-    display: International Journal of Environmental Research and Public Health, 18(10), 5210 (2021)
+    display: International Journal of Environmental Research and Public Health, 18(10), 5210
   highlight: 0
 
 - title: "Releasing prisoners during COVID-19: The impact of the support for the early release, perceived insecurity, and political orientation on attitudes towards released prisoners"
   image:
   description:
+  year: 2021
   authors: Lopes, P. C., Pinto, I. R., Marques, J. M., & Bobowik, M.
   link:
     url: https://doi.org/10.1108/IJPH-09-20200074
-    display: International Journal of Prisoner Health, 17(3), 282–295 (2021)
+    display: International Journal of Prisoner Health, 17(3), 282–295
   highlight: 0
 
 - title: "To apologize or to compensate for colonial injustices? The role of representations of the colonial past, group-based guilt, and in-group identification"
   image:
   description:
+  year: 2021
   authors: Martinovic, B., Freihorst, K., & Bobowik, M.
   link:
     url: https://doi.org/10.5334/irsp.484
-    display: International Review of Social Psychology, 34(1), 20 (2021)
+    display: International Review of Social Psychology, 34(1), 20
   highlight: 0
 
 - title: "Collective memory in the Basque Country: The interplay between construals of victimhood and perpetratorship"
   image:
   description:
+  year: 2021
   authors: Bobowik, M., Arnoso-Martínez, M., Rupar, M., & Arnoso-Martínez, A.
   link:
     url:
-    display: "In M. Muñoz-Justicia & M. Carrera-Levillain (Eds.), Transitioning to Peace: Promoting Global Social Justice and Non-violence (pp. 91–110). Springer (2021)"
+    display: "In M. Muñoz-Justicia & M. Carrera-Levillain (Eds.), Transitioning to Peace: Promoting Global Social Justice and Non-violence (pp. 91–110). Springer"
   highlight: 0
 
 # 2020
@@ -276,28 +305,31 @@
 - title: "Human values and ideological beliefs as predictors of attitudes toward immigrants across 20 countries: The country-level moderating role of threat"
   image:
   description:
+  year: 2020
   authors: Araújo, R. C. R., Bobowik, M., Vilar, R., Liu, J. H., Gouveia, V. V., Gil de Zúñiga, H., Kus-Harbord, L., Lebedeva, N., & Poluektova, O.
   link:
     url: https://doi.org/10.1002/ejsp.2635
-    display: European Journal of Social Psychology, 50(3), 534–546 (2020)
+    display: European Journal of Social Psychology, 50(3), 534–546
   highlight: 0
 
 - title: "Grupos de mujeres y ocio como herramientas de integración social con inmigrantes Latinoamericanas"
   image:
   description:
+  year: 2020
   authors: Alonso-Arbiol, I., & Bobowik, M.
   link:
     url: https://revista.ibict.br/inclusao/article/view/5508
-    display: Inclusão Social, 13(2) (2020)
+    display: Inclusão Social, 13(2)
   highlight: 0
 
 - title: "Memoria colectiva e historia universal: Evaluación subjetiva e importancia de eventos y personajes"
   image:
   description:
+  year: 2020
   authors: Delfino, G. I., Sosa, F. M., Bobowik, M., & Zubieta, E. M.
   link:
     url: http://dx.doi.org/10.18682/pd.v20i1.1006
-    display: Psicodebate, 20, 68–85 (2020)
+    display: Psicodebate, 20, 68–85
   highlight: 0
 
 # 2019
@@ -305,19 +337,21 @@
 - title: "Support for collective action against refugees: The role of national, European, and global identifications, and autochthony beliefs"
   image:
   description:
+  year: 2019
   authors: Hasbún López, P., Martinović, B., Bobowik, M., Chryssochoou, X., Cichocka, A., Barros, M., Bukowski, M., Gómez, Á., González, R., Kende, A., Kutlaca, M., Lahrach, Y., Lášticová, B., Licata, L., Özden, B., & Páez, D.
   link:
     url:
-    display: European Journal of Social Psychology, 49(7), 1439–1455 (2019)
+    display: European Journal of Social Psychology, 49(7), 1439–1455
   highlight: 0
 
 - title: "Greedy elites and poor lambs: How young Europeans remember the Great War"
   image:
   description:
+  year: 2019
   authors: Bouchat, P., Licata, L., Rosoux, V., Allesch, C., Ammerer, H., Babinska, M., et al.
   link:
     url:
-    display: Journal of Social and Political Psychology, 7(1), 52–75 (2019)
+    display: Journal of Social and Political Psychology, 7(1), 52–75
   highlight: 0
 
 # 2018
@@ -325,37 +359,41 @@
 - title: "Introduction to the Special Issue: Colonial past and intercultural relations"
   image:
   description:
+  year: 2018
   authors: Bobowik, M., Valentim, J. P., & Licata, L.
   link:
     url:
-    display: International Journal of Intercultural Relations, 62, 1–12 (2018)
+    display: International Journal of Intercultural Relations, 62, 1–12
   highlight: 0
 
 - title: "Validación de la Escala de Tendencias de Acción Política en una muestra de estudiantes universitarios chilenos"
   image:
   description:
+  year: 2018
   authors: Sandoval, J., Hatibovic, F., & Bobowik, M.
   link:
     url:
-    display: Psykhe (Santiago), 27(1), 1–17 (2018)
+    display: Psykhe (Santiago), 27(1), 1–17
   highlight: 0
 
 - title: "Implicaciones de los estudios sobre memoria colectiva para la enseñanza de la historia"
   image:
   description:
+  year: 2018
   authors: Arnoso, M., Páez, D., Bobowik, M., & Basabe, N.
   link:
     url:
-    display: Arbor, 194(788), a445 (2018)
+    display: Arbor, 194(788), a445
   highlight: 0
 
 - title: "Only real when shared: Social well-being, collective efficacy, and social networks among immigrant emerging adults in Spain"
   image:
   description:
+  year: 2018
   authors: Bobowik, M., Basabe, N., & Wlodarczyk, A.
   link:
     url:
-    display: "In A. Kosic & A. Phalet (Eds.), Well-Being of Youth and Emerging Adults across Cultures: Novel Approaches and Findings (2018)"
+    display: "In A. Kosic & A. Phalet (Eds.), Well-Being of Youth and Emerging Adults across Cultures: Novel Approaches and Findings. Springer"
   highlight: 0
 
 # 2017
@@ -363,55 +401,61 @@
 - title: "'Healthy' identities? Revisiting rejection-identification and rejection-disidentification models among voluntary and forced immigrants"
   image:
   description:
+  year: 2017
   authors: Bobowik, M., Martinovic, B., Basabe, N., Barsties, L. S., & Wachter, G.
   link:
     url:
-    display: European Journal of Social Psychology, 47(7), 818–831 (2017)
+    display: European Journal of Social Psychology, 47(7), 818–831
   highlight: 0
 
 - title: "Institutional apologies and socio-emotional climate in the South American context"
   image:
   description:
+  year: 2017
   authors: Bobowik, M., Páez, D., Arnoso, M., Cárdenas, M., Rimé, B., Zubieta, E., et al.
   link:
     url:
-    display: British Journal of Social Psychology, 56(3), 578–598 (2017)
+    display: British Journal of Social Psychology, 56(3), 578–598
   highlight: 0
 
 - title: "Dark and bright side of claiming discrimination: Making attributions to prejudice and social wellbeing among immigrants in Spain"
   image:
   description:
+  year: 2017
   authors: Bobowik, M., Wlodarczyk, A., & Lay-Lisboa, S.
   link:
     url:
-    display: Universitas Psychologica, 16, 191–205 (2017)
+    display: Universitas Psychologica, 16, 191–205
   highlight: 0
 
 - title: "Xenofobia y homofobia como efectos de la orientación política, religión y sexo mediados por clasismo y patriocentrismo en jóvenes universitarios chilenos"
   image:
   description:
+  year: 2017
   authors: Hatibovic, F., Bobowik, M., Faúndez, X., & Sandoval, J.
   link:
     url:
-    display: Revista Colombiana de Psicología, 26(1), 131–148 (2017)
+    display: Revista Colombiana de Psicología, 26(1), 131–148
   highlight: 0
 
 - title: "Experimental ritual: Humanizing immigrants or utilitarian prejudice in Europe?"
   image:
   description:
+  year: 2017
   authors: Pizarro, J. J., Telletxea, S., Bobowik, M., & Zumeta, L.
   link:
     url:
-    display: Universitas Psychologica, 16, 47–60 (2017)
+    display: Universitas Psychologica, 16, 47–60
   highlight: 0
 
 - title: "Social representations of the past and competences in history education"
   image:
   description:
+  year: 2017
   authors: Páez, D., Bobowik, M., & Liu, J. H.
   link:
     url:
-    display: "In M. Carretero, S. Berger, & M. Grever (Eds.), Palgrave Handbook of Research in Historical Culture and Education (pp. 491–510). Palgrave Macmillan (2017)"
+    display: "In M. Carretero, S. Berger, & M. Grever (Eds.), Palgrave Handbook of Research in Historical Culture and Education (pp. 491–510). Palgrave Macmillan"
   highlight: 0
 
 # 2016
@@ -419,44 +463,49 @@
 - title: "Factor structure of mental well-being: Contributions of exploratory structural equation modeling"
   image:
   description:
+  year: 2016
   authors: Joshanloo, M., Bobowik, M., & Basabe, N.
   link:
     url:
-    display: Personality and Individual Differences, 102, 107–110 (2016)
+    display: Personality and Individual Differences, 102, 107–110
   highlight: 0
 
 - title: "Shared flow and positive collective gatherings"
   image:
   description:
+  year: 2016
   authors: Zumeta, L., Basabe, N., Wlodarczyk, A., Bobowik, M., & Páez, D.
   link:
     url:
-    display: Anales de Psicología, 32(3), 717–727 (2016)
+    display: Anales de Psicología, 32(3), 717–727
   highlight: 0
 
 - title: "Social representations of history, cultural values, and willingness to fight in a war"
   image:
   description:
+  year: 2016
   authors: Páez, D., Liu, J. H., Bobowik, M., Basabe, N., & Hanke, K.
   link:
     url:
-    display: Asian Journal of Social Psychology, 19(4), 347–361 (2016)
+    display: Asian Journal of Social Psychology, 19(4), 347–361
   highlight: 0
 
 - title: "Tareas de responsabilidad social en la escuela y agresión entre iguales"
   image:
   description:
+  year: 2016
   authors: de la Caba Collado, M. Á., López Atxurra, R., & Bobowik, M.
   link:
     url:
-    display: Revista de Educación, 374(4) (2016)
+    display: Revista de Educación, 374(4)
   highlight: 0
 
 - title: "Mémoire collective et représentations sociales de l'Histoire"
   image:
   description:
+  year: 2016
   authors: Páez, D., Bobowik, M., De Guissmé, L., Liu, J. H., & Licata, L.
   link:
     url:
-    display: "In G. Lo Monaco, S. Delouvée, & P. Rateau (Eds.), Les représentations sociales: Théories, méthodes et applications (pp. 539–552). De Boeck (2016)"
+    display: "In G. Lo Monaco, S. Delouvée, & P. Rateau (Eds.), Les représentations sociales: Théories, méthodes et applications (pp. 539–552). De Boeck"
   highlight: 0

@@ -28,8 +28,7 @@ All pre-registered data and materials are available on our [OSF repository](http
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p>{{ publi.authors }} ({{ publi.year }}). <em>{{ publi.link.display }}</em>.{% if publi.link.url %} <a href="{{ publi.link.url }}">{{ publi.link.url }}</a>{% endif %}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -56,7 +55,6 @@ All pre-registered data and materials are available on our [OSF repository](http
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <p>{{ publi.authors }} ({{ publi.year }}). {{ publi.title }}. <em>{{ publi.link.display }}</em>.{% if publi.link.url %} <a href="{{ publi.link.url }}">{{ publi.link.url }}</a>{% endif %}</p>
 
 {% endfor %}
