@@ -168,6 +168,33 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## International Collaborators
 
-- **Dr. Emanuele Politi** — Associate Professor of Social Psychology, University of Trento, Italy. Expertise: forced migration, displacement, and socio-ecological approaches to migration.
-- **Dr. Mirjana Rupar** — Research Scientist, Institute of Psychology, Czech Academy of Sciences. Expertise: intergroup relations, conflict reconciliation, mass media.
-- **Dr. Borja Martinovic** — Associate Professor, ERCOMER, Utrecht University. Expertise: group identities, immigrant integration, intergroup relations.
+{% assign number_printed = 0 %}
+{% for member in site.data.collaborators %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i>
+  <ul style="overflow: hidden">
+  <li>{{ member.research }}</li>
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
