@@ -23,12 +23,6 @@ Our work lies at the intersection of social psychology, intergroup relations, an
 <div class="res-project-funder">Ministry of Science, Innovation and Universities</div>
 <div class="res-project-meta">PID2023-151315OA-I00 · 2024–2027 · €166,625 + 1 FPI</div>
 </div>
-<div class="res-project-card pi-card">
-<div class="res-project-badge">PI</div>
-<div class="res-project-name">Effects of Collapse Narratives on Engagement with Climate Action</div>
-<div class="res-project-funder">University of the Basque Country EHU</div>
-<div class="res-project-meta">US25/33 · 2026–2027 · €36,000</div>
-</div>
 </div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
@@ -102,7 +96,34 @@ Discrimination is not only a social injustice — it has measurable consequences
 
 ---
 
-## 4. Emotions in Intergroup and Social Contexts
+## 4. Collapse Narratives and Collective Action
+
+<div class="res-funding-col">
+<div class="res-project-card pi-card">
+<div class="res-project-badge">PI</div>
+<div class="res-project-name">bloom4action: Effects of Collapse Narratives on Engagement with Climate Action</div>
+<div class="res-project-funder">University of the Basque Country EHU</div>
+<div class="res-project-meta">US25/33 · 2026–2027 · €36,000</div>
+</div>
+</div>
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_collapse.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
+
+How do people respond — emotionally and behaviourally — when confronted with narratives of systemic collapse? As climate breakdown, democratic erosion, and social fragmentation become prominent cultural themes, we ask how collapse narratives shape collective motivation, solidarity, and action.
+
+**Climate engagement.** We investigate how exposure to collapse narratives about climate change — framing ecological crisis as inevitable or reversible, individual or systemic — affects pro-environmental attitudes, emotions, and willingness to engage in collective action.
+
+**Narrative framing effects.** We examine how the framing of collapse (hopeful vs. catastrophic, local vs. global) interacts with individual differences in group identity and political orientation to produce engagement or disengagement.
+
+**Transfer across social causes.** We explore whether emotional and motivational responses to collapse narratives generalise across domains — from climate to democratic erosion, economic inequality, or intergroup conflict.
+
+*Key questions:* When do collapse narratives motivate rather than paralyse? How can crisis narratives be framed to foster inclusive solidarity rather than retreat or polarisation?
+
+<div style="clear:both;"></div>
+
+---
+
+## 5. Emotions in Intergroup and Social Contexts
 
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
@@ -139,7 +160,7 @@ Emotions are not just reactions — they shape how we perceive, judge, and respo
 
 ---
 
-## 5. Social Rituals and Collective Emotions
+## 6. Social Rituals and Collective Emotions
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_rituals.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
@@ -153,7 +174,7 @@ We investigate which individual factors (e.g., personality, self-construal) and 
 
 ---
 
-## 6. Collective Memory, Violence, and Social Justice
+## 7. Collective Memory, Violence, and Social Justice
 
 <div class="res-funding-col">
 <div class="res-project-card team-card">
