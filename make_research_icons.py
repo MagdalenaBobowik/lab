@@ -1,25 +1,16 @@
-"""Generate refined geometric header images for the six research lines."""
+"""Generate refined geometric header images for the six research lines.
+Portrait format (160×300 px) — displayed as left-floating sidebar next to text.
+"""
 from PIL import Image, ImageDraw
 import math
-
-
-def draw_person(d, cx, cy, sz, color, lw):
-    """Outline-style person icon: circle head + shoulder arc."""
-    rh  = int(sz * 0.20)
-    hcy = int(cy - sz * 0.27)
-    d.ellipse([cx-rh, hcy-rh, cx+rh, hcy+rh], outline=(*color, 255), width=lw)
-    rb  = int(sz * 0.46)
-    bcy = int(cy + sz * 0.18)
-    d.arc([cx-rb, bcy-rb, cx+rb, bcy+rb], 200, 340, fill=(*color, 255), width=lw)
 
 PURPLE = (123, 50, 165)
 ORANGE = (242, 158, 0)
 WHITE  = (255, 255, 255)
 
-# Draw at 2× then downscale for smooth edges
 SCALE  = 2
-W, H   = 800, 150
-WS, HS = W * SCALE, H * SCALE
+W, H   = 160, 300
+WS, HS = W * SCALE, H * SCALE   # 320 × 600 drawing canvas
 
 
 def canvas():
@@ -33,22 +24,31 @@ def save(img, name):
     print(f"Saved {path}  ({W}×{H})")
 
 
+def draw_person(d, cx, cy, sz, color, lw):
+    """Outline-style person icon: circle head + shoulder arc."""
+    rh  = int(sz * 0.20)
+    hcy = int(cy - sz * 0.27)
+    d.ellipse([cx-rh, hcy-rh, cx+rh, hcy+rh], outline=(*color, 255), width=lw)
+    rb  = int(sz * 0.46)
+    bcy = int(cy + sz * 0.18)
+    d.arc([cx-rb, bcy-rb, cx+rb, bcy+rb], 200, 340, fill=(*color, 255), width=lw)
+
+
 # ── 1. Empowerment Narratives ──────────────────────────────────────────────
-# More chevrons (13) spread evenly across full width
+# Ascending chevrons from bottom to top, growing larger upward
 img = canvas(); d = ImageDraw.Draw(img)
-n = 13
-xs = [int(WS * (i + 1) / (n + 1)) for i in range(n)]
-base_size = int(HS * 0.22)
-for i, x in enumerate(xs):
-    frac = (i % 7) / 6          # repeat the rising pattern across groups
-    size = int(base_size + HS * 0.42 * frac)
+n   = 9
+lw  = 7 * SCALE
+cx  = WS // 2
+for i in range(n):
+    frac = i / (n - 1)
+    y    = int(HS * 0.88 - HS * 0.76 * frac)
+    size = int(WS * 0.13 + WS * 0.30 * frac)
     color = PURPLE if i % 2 == 0 else ORANGE
-    lw = 7 * SCALE
-    cy = HS // 2 + int(HS * 0.04)
     pts = [
-        (x - size // 2, cy + size // 3),
-        (x,             cy - size // 2),
-        (x + size // 2, cy + size // 3),
+        (cx - size // 2, y + size // 3),
+        (cx,             y - size // 2),
+        (cx + size // 2, y + size // 3),
     ]
     d.line([pts[0], pts[1]], fill=(*color, 240), width=lw)
     d.line([pts[1], pts[2]], fill=(*color, 240), width=lw)
@@ -56,27 +56,24 @@ save(img, "res_narratives")
 
 
 # ── 2. Intergroup Interactions ─────────────────────────────────────────────
-# Two clusters spread to edges, with more bridging nodes in between
+# Two clusters (top purple, bottom orange) connected by bridge nodes
 img = canvas(); d = ImageDraw.Draw(img)
 c1 = [(int(WS*f[0]), int(HS*f[1])) for f in
-      [(0.05, 0.35), (0.12, 0.70), (0.21, 0.48), (0.14, 0.15)]]
+      [(0.30, 0.10), (0.70, 0.12), (0.50, 0.22), (0.20, 0.20)]]
 c2 = [(int(WS*f[0]), int(HS*f[1])) for f in
-      [(0.95, 0.35), (0.88, 0.70), (0.79, 0.48), (0.86, 0.15)]]
-br = [(int(WS*0.38), int(HS*0.32)), (int(WS*0.50), int(HS*0.68)),
-      (int(WS*0.62), int(HS*0.32))]
+      [(0.30, 0.90), (0.70, 0.88), (0.50, 0.78), (0.80, 0.80)]]
+br = [(int(WS*0.35), int(HS*0.42)), (int(WS*0.65), int(HS*0.58))]
 
 edges1 = [(0,1),(1,2),(2,0),(0,3),(3,2)]
 edges2 = [(0,1),(1,2),(2,0),(0,3),(3,2)]
-cross  = [(c1[2], br[0]), (br[0], br[1]), (br[1], br[2]), (br[2], c2[2]),
-          (c1[0], br[0]), (c2[0], br[2]), (br[0], br[2])]
+cross  = [(c1[2], br[0]), (br[0], br[1]), (br[1], c2[2]),
+          (c1[0], br[0]), (c2[0], br[1])]
+mid    = tuple(PURPLE[i]//2 + ORANGE[i]//2 for i in range(3))
 
 for a, b in edges1:
     d.line([c1[a], c1[b]], fill=(*PURPLE, 80), width=3*SCALE)
 for a, b in edges2:
     d.line([c2[a], c2[b]], fill=(*ORANGE, 80), width=3*SCALE)
-mid = (PURPLE[0]//2 + ORANGE[0]//2,
-       PURPLE[1]//2 + ORANGE[1]//2,
-       PURPLE[2]//2 + ORANGE[2]//2)
 for p1, p2 in cross:
     d.line([p1, p2], fill=(*mid, 160), width=4*SCALE)
 
@@ -92,60 +89,53 @@ save(img, "res_interactions")
 
 
 # ── 3. Discrimination & Stigma ─────────────────────────────────────────────
-# Groups of 3 purple people + 1 isolated orange person, repeated 3× across width
+# Top: 3 purple people grouped. Bottom: 1 orange person isolated.
 img = canvas(); d = ImageDraw.Draw(img)
-sz      = int(HS * 0.50)          # person icon height
-lw      = 6 * SCALE
-gap_grp = int(sz * 0.40)          # spacing between group members
-n_reps  = 3
-rep_w   = WS // n_reps
-grp_cy  = int(HS * 0.36)         # group vertical centre (upper area)
-iso_cy  = int(HS * 0.72)         # isolated person centre (lower area)
+sz     = int(WS * 0.38)
+lw_p   = 6 * SCALE
+gap_g  = int(sz * 0.42)
+cx     = WS // 2
 
-for rep in range(n_reps):
-    cx_rep = rep * rep_w + rep_w // 2
+# Group of 3 (top half)
+grp_cy = int(HS * 0.28)
+for j in [-1, 0, 1]:
+    draw_person(d, cx + j * gap_g, grp_cy, sz, PURPLE, lw_p)
 
-    # Group of 3 (purple) — slightly left of each repetition centre
-    grp_cx = cx_rep - int(rep_w * 0.16)
-    for j in [-1, 0, 1]:
-        draw_person(d, grp_cx + j * gap_grp, grp_cy, sz, PURPLE, lw)
-
-    # Isolated person (orange) — right of group, lower position
-    iso_cx = cx_rep + int(rep_w * 0.28)
-    draw_person(d, iso_cx, iso_cy, int(sz * 0.88), ORANGE, lw)
-
+# Isolated person (bottom half, offset)
+iso_cy = int(HS * 0.72)
+draw_person(d, cx + int(WS * 0.10), iso_cy, int(sz * 0.90), ORANGE, lw_p)
 save(img, "res_discrimination")
 
 
 # ── 4. Emotions ────────────────────────────────────────────────────────────
-# Three sets of concentric ellipses tiled across full width
+# Two sets of concentric ellipses stacked vertically
 img = canvas(); d = ImageDraw.Draw(img)
-n_rings  = 5
-cx_list  = [WS // 6, WS // 2, 5 * WS // 6]
-rx_max   = WS // 6                    # reaches neighbour's centre
-ry_max   = HS // 2 - 4 * SCALE       # fills height
-for cx in cx_list:
-    cy = HS // 2
+n_rings = 4
+cy_list = [HS // 4, 3 * HS // 4]
+rx_max  = WS // 2 - 6 * SCALE
+ry_max  = HS // 4 - 6 * SCALE
+for cy in cy_list:
     for i in range(n_rings, 0, -1):
         rx = i * rx_max // n_rings
         ry = i * ry_max // n_rings
         color = PURPLE if i % 2 == 0 else ORANGE
         lw = (n_rings - i + 2) * SCALE
-        d.ellipse([cx-rx, cy-ry, cx+rx, cy+ry], outline=(*color, 220), width=lw)
-    r = 10 * SCALE
-    d.ellipse([cx-r, cy-r, cx+r, cy+r], fill=(*PURPLE, 255))
+        d.ellipse([WS//2-rx, cy-ry, WS//2+rx, cy+ry],
+                  outline=(*color, 220), width=lw)
+    r = 9 * SCALE
+    d.ellipse([WS//2-r, cy-r, WS//2+r, cy+r], fill=(*PURPLE, 255))
 save(img, "res_emotions")
 
 
 # ── 5. Social Rituals ──────────────────────────────────────────────────────
-# Three starburst patterns tiled across full width
+# Two starburst patterns stacked vertically
 img = canvas(); d = ImageDraw.Draw(img)
-cx_list = [WS // 6, WS // 2, 5 * WS // 6]
+cy_list = [HS // 4, 3 * HS // 4]
 n       = 18
-r_in    = int(HS * 0.10)
-r_out   = int(HS * 0.42)
-for cx in cx_list:
-    cy = HS // 2
+r_in    = int(WS * 0.07)
+r_out   = min(WS // 2 - 8 * SCALE, HS // 4 - 8 * SCALE)
+for cy in cy_list:
+    cx = WS // 2
     for i in range(n):
         angle = 2 * math.pi * i / n - math.pi / 2
         color = PURPLE if i % 3 != 0 else ORANGE
@@ -156,28 +146,27 @@ for cx in cx_list:
         d.line([(xi, yi), (xo, yo)], fill=(*color, 170), width=3*SCALE)
         rd = 9 * SCALE
         d.ellipse([xo-rd, yo-rd, xo+rd, yo+rd], fill=(*color, 255))
-    rc = 13 * SCALE
+    rc = 12 * SCALE
     d.ellipse([cx-rc, cy-rc, cx+rc, cy+rc], fill=(*PURPLE, 255))
 save(img, "res_rituals")
 
 
 # ── 6. Collective Memory ───────────────────────────────────────────────────
-# Stacked shrinking rectangles — geological strata / layers of history
+# Stacked horizontal bands of decreasing width — geological strata
 img = canvas(); d = ImageDraw.Draw(img)
-n      = 7
-pad_y  = int(HS * 0.08)
+n      = 8
+pad_y  = int(HS * 0.05)
 band_h = (HS - 2 * pad_y) // n
 gap    = 5 * SCALE
 for i in range(n):
-    shrink = i * int(WS * 0.055)
+    shrink = i * int(WS * 0.07)
     x1 = shrink
     x2 = WS - shrink
     y1 = pad_y + i * band_h
     y2 = y1 + band_h - gap
-    alpha = 230 - i * 15
     color = PURPLE if i % 2 == 0 else ORANGE
-    d.rectangle([x1, y1, x2, y2], fill=(*color, alpha))
+    d.rectangle([x1, y1, x2, y2], fill=(*color, 230 - i * 15))
 save(img, "res_memory")
 
 
-print("\nAll 6 research images done.")
+print("\nAll 6 portrait research images done.")

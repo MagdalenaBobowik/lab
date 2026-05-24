@@ -13,7 +13,8 @@ Our work lies at the intersection of social psychology, intergroup relations, an
 ---
 
 ## 1. Empowerment Narratives and Intergroup Solidarity
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Can stories change minds — and move people to act? This is the central question of the [**HERMES project**](https://hermesproject.es/), funded by the Spanish Ministry of Science and Universities.
 
@@ -33,10 +34,13 @@ HERMES connects experimental science with real-world interventions — including
 
 *Key questions:* When do role model narratives shift perceptions of empowerment among advantaged groups? How do collective (vs. individual) narratives affect in-group empowerment? What makes solidarity behaviour real and lasting?
 
+<div style="clear:both;"></div>
+
 ---
 
 ## 2. Intergroup Interactions and Alliances
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_interactions.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_interactions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Beyond prejudice reduction, we ask how contact and shared identities generate genuine solidarity and empower disadvantaged communities.
 
@@ -52,10 +56,13 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 
 *Key questions:* Under what conditions does intergroup contact empower rather than merely include? How do coalitional identities sustain alliances across disadvantaged communities?
 
+<div style="clear:both;"></div>
+
 ---
 
 ## 3. Discrimination and Stigma
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Discrimination is not only a social injustice — it has measurable consequences for the health, well-being, and agency of those who experience it. We examine how stigma and structural discrimination operate against frequently criminalised groups, and what can be done to reduce them.
 
@@ -65,10 +72,13 @@ Discrimination is not only a social injustice — it has measurable consequences
 
 *Key questions:* How do criminalisation and hate speech shape attitudes toward migrants? What are the mental health consequences of perceived discrimination? How do intersecting identities (gender, ethnicity, migration status) compound stigma?
 
+<div style="clear:both;"></div>
+
 ---
 
 ## 4. Emotions in Intergroup and Social Contexts
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Emotions are not just reactions — they shape how we perceive, judge, and respond to members of other groups. We study emotional expression and self-transcendent emotions as forces in intergroup relations.
 
@@ -78,10 +88,13 @@ Emotions are not just reactions — they shape how we perceive, judge, and respo
 
 *Key questions:* How does emotional expression shape intergroup attitudes and solidarity? Can self-transcendent emotions reduce intergroup boundaries and promote inclusive identities?
 
+<div style="clear:both;"></div>
+
 ---
 
 ## 5. Social Rituals and Collective Emotions
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_rituals.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_rituals.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Collective rituals — from concerts to community gatherings — generate *collective effervescence* (CE): a heightened emotional state arising from shared synchrony between participants. Prior work in our group has shown CE contributes to well-being and social cohesion.
 
@@ -89,10 +102,13 @@ We investigate which individual factors (e.g., personality, self-construal) and 
 
 *Key questions:* Who experiences collective effervescence most intensely, and why? How do rituals translate into lasting well-being and social bonds?
 
+<div style="clear:both;"></div>
+
 ---
 
 ## 6. Collective Memory, Violence, and Social Justice
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Historical memory shapes present-day intergroup relations. This line examines how colonial legacies, transitional justice institutions, and peace processes configure attitudes toward reconciliation, solidarity, and political self-determination.
 
@@ -103,6 +119,8 @@ Historical memory shapes present-day intergroup relations. This line examines ho
 **Psychosocial bases of secessionism.** Using latent profile analysis and experimental designs, we identify patterns of national and ethnic identity and examine how collective relative deprivation, perceived threat, and meta-perceptions of indispensability predict support for secessionist movements and their preferred means — institutional, non-violent, or violent.
 
 *Key questions:* How do historical injustices travel into present-day intergroup conflict? Under what conditions do transitional justice mechanisms build political trust? What psychological factors distinguish support for peaceful versus violent secessionism?
+
+<div style="clear:both;"></div>
 
 ---
 
