@@ -13,6 +13,7 @@ Our work lies at the intersection of social psychology, intergroup relations, an
 ---
 
 ## 1. Empowerment Narratives and Intergroup Solidarity
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
 
 Can stories change minds — and move people to act? This is the central question of the [**HERMES project**](https://hermesproject.es/), funded by the Spanish Ministry of Science and Universities.
 
@@ -35,6 +36,7 @@ HERMES connects experimental science with real-world interventions — including
 ---
 
 ## 2. Intergroup Interactions and Alliances
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_interactions.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
 
 Beyond prejudice reduction, we ask how contact and shared identities generate genuine solidarity and empower disadvantaged communities.
 
@@ -53,6 +55,7 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 ---
 
 ## 3. Discrimination and Stigma
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
 
 Discrimination is not only a social injustice — it has measurable consequences for the health, well-being, and agency of those who experience it. We examine how stigma and structural discrimination operate against frequently criminalised groups, and what can be done to reduce them.
 
@@ -65,6 +68,7 @@ Discrimination is not only a social injustice — it has measurable consequences
 ---
 
 ## 4. Emotions in Intergroup and Social Contexts
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
 
 Emotions are not just reactions — they shape how we perceive, judge, and respond to members of other groups. We study emotional expression and self-transcendent emotions as forces in intergroup relations.
 
@@ -77,6 +81,7 @@ Emotions are not just reactions — they shape how we perceive, judge, and respo
 ---
 
 ## 5. Social Rituals and Collective Emotions
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_rituals.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
 
 Collective rituals — from concerts to community gatherings — generate *collective effervescence* (CE): a heightened emotional state arising from shared synchrony between participants. Prior work in our group has shown CE contributes to well-being and social cohesion.
 
@@ -87,6 +92,7 @@ We investigate which individual factors (e.g., personality, self-construal) and 
 ---
 
 ## 6. Collective Memory, Violence, and Social Justice
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="width:100%; max-width:800px; margin:14px 0 20px 0; border-radius:4px;" />
 
 Historical memory shapes present-day intergroup relations. This line examines how colonial legacies, transitional justice institutions, and peace processes configure attitudes toward reconciliation, solidarity, and political self-determination.
 
