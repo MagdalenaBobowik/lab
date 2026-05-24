@@ -1,10 +1,11 @@
 - name: Irene Cisma
   photo: hermes-irene.jpg
-  info: PhD Candidate in Social Psychology, UPV/EHU; Media Editor, International Journal of Social Psychology
+  info: PhD Candidate in Social Psychology, UPV/EHU
   email:
-  number_educ: 2
+  number_educ: 3
   education1: Background in Communication and Neuroscience
-  education2: Research – empowerment narratives and digital intervention impacts; migrant collective action and solidarity
+  education2: Media Editor, International Journal of Social Psychology
+  education3: Research – empowerment narratives and digital intervention impacts; migrant collective action and solidarity
 
 - name: El Galia Mokhtar Mohamed
   photo: hermes-gaila.jpg
