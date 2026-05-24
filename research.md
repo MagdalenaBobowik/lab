@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-Our work sits at the intersection of social psychology, intergroup relations, and social justice. We study how people perceive disadvantage, how solidarity forms across group boundaries, and how emotions, identities, and narratives shape social change. Our research spans six interconnected lines.
+Our work lies at the intersection of social psychology, intergroup relations, and social justice. We study how people perceive disadvantage, how solidarity forms across group boundaries, and how emotions, identities, and narratives shape social change. Our research spans six interconnected lines.
 
 ---
 
