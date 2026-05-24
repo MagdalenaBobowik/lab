@@ -10,11 +10,14 @@ permalink: /research/
 
 Our work lies at the intersection of social psychology, intergroup relations, and social justice. We study how people perceive disadvantage, how solidarity forms across group boundaries, and how emotions, identities, and narratives shape social change. Our research spans six interconnected lines.
 
-<p class="res-funding-legend"><span class="legend-pi">■</span> PI-led grant &nbsp;&nbsp; <span class="legend-team">■</span> Participation as team member</p>
-
 ---
 
 ## 1. Empowerment Narratives and Intergroup Solidarity
+
+<div class="res-line-left">
+<div class="res-line-title-sq">1. Empowerment Narratives and Intergroup Solidarity</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
+</div>
 
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
@@ -25,7 +28,6 @@ Our work lies at the intersection of social psychology, intergroup relations, an
 </div>
 </div>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Can stories change minds — and move people to act? This is the central question of the [**HERMES project**](https://hermesproject.es/), funded by the Spanish Ministry of Science and Universities.
 
@@ -51,7 +53,10 @@ HERMES connects experimental science with real-world interventions — including
 
 ## 2. Intergroup Interactions and Alliances
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_interactions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
+<div class="res-line-left">
+<div class="res-line-title-sq">2. Intergroup Interactions and Alliances</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_interactions.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
+</div>
 
 Beyond prejudice reduction, we ask how contact and shared identities generate genuine solidarity and empower disadvantaged communities.
 
@@ -73,6 +78,11 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 
 ## 3. Discrimination and Stigma
 
+<div class="res-line-left">
+<div class="res-line-title-sq">3. Discrimination and Stigma</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
+</div>
+
 <div class="res-funding-col">
 <div class="res-project-card team-card">
 <div class="res-project-badge">Team member</div>
@@ -81,8 +91,6 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 <div class="res-project-meta">2024–2025 · €72,588</div>
 </div>
 </div>
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Discrimination is not only a social injustice — it has measurable consequences for the health, well-being, and agency of those who experience it. We examine how stigma and structural discrimination operate against frequently criminalised groups, and what can be done to reduce them.
 
@@ -98,6 +106,11 @@ Discrimination is not only a social injustice — it has measurable consequences
 
 ## 4. Collapse Narratives and Collective Action
 
+<div class="res-line-left">
+<div class="res-line-title-sq">4. Collapse Narratives and Collective Action</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_collapse.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
+</div>
+
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
 <div class="res-project-badge">PI</div>
@@ -106,8 +119,6 @@ Discrimination is not only a social injustice — it has measurable consequences
 <div class="res-project-meta">US25/33 · 2026–2027 · €36,000</div>
 </div>
 </div>
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_collapse.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 How do people respond — emotionally and behaviourally — when confronted with narratives of systemic collapse? As climate breakdown, democratic erosion, and social fragmentation become prominent cultural themes, we ask how collapse narratives shape collective motivation, solidarity, and action.
 
@@ -124,6 +135,11 @@ How do people respond — emotionally and behaviourally — when confronted with
 ---
 
 ## 5. Emotions in Intergroup and Social Contexts
+
+<div class="res-line-left">
+<div class="res-line-title-sq">5. Emotions in Intergroup and Social Contexts</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
+</div>
 
 <div class="res-funding-col">
 <div class="res-project-card pi-card">
@@ -146,8 +162,6 @@ How do people respond — emotionally and behaviourally — when confronted with
 </div>
 </div>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
-
 Emotions are not just reactions — they shape how we perceive, judge, and respond to members of other groups. We study emotional expression and self-transcendent emotions as forces in intergroup relations.
 
 **Nonverbal emotional expression.** Building on research showing that facial expressions (e.g., smiling, crying) toward outgroup members affect cognitive, affective, and behavioural responses, we examine how political orientation and group membership moderate these effects. We also investigate the role of victims' emotional expression in intergroup forgiveness and punishment support, and how empathic nonverbal gestures (e.g., physical contact) promote solidarity with migrants.
@@ -162,7 +176,10 @@ Emotions are not just reactions — they shape how we perceive, judge, and respo
 
 ## 6. Social Rituals and Collective Emotions
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_rituals.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
+<div class="res-line-left">
+<div class="res-line-title-sq">6. Social Rituals and Collective Emotions</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_rituals.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
+</div>
 
 Collective rituals — from concerts to community gatherings — generate *collective effervescence* (CE): a heightened emotional state arising from shared synchrony between participants. Prior work in our group has shown CE contributes to well-being and social cohesion.
 
@@ -176,6 +193,11 @@ We investigate which individual factors (e.g., personality, self-construal) and 
 
 ## 7. Collective Memory, Violence, and Social Justice
 
+<div class="res-line-left">
+<div class="res-line-title-sq">7. Collective Memory, Violence, and Social Justice</div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="width:160px; display:block; border-radius:0 0 4px 4px; margin:0;" />
+</div>
+
 <div class="res-funding-col">
 <div class="res-project-card team-card">
 <div class="res-project-badge">Team member</div>
@@ -184,8 +206,6 @@ We investigate which individual factors (e.g., personality, self-construal) and 
 <div class="res-project-meta">2026–2027 · €50,000</div>
 </div>
 </div>
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Historical memory shapes present-day intergroup relations. This line examines how colonial legacies, transitional justice institutions, and peace processes configure attitudes toward reconciliation, solidarity, and political self-determination.
 
