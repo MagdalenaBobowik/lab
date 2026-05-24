@@ -1,11 +1,12 @@
-
-<div class="well">
 <h4>News</h4>
 
 {% for article in site.data.news limit:9 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
+<div class="well" style="padding: 10px; margin-bottom: 10px; overflow: hidden;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ article.image }}" style="width:42px; height:42px; object-fit:cover; border-radius:8%; float:left; margin:0 10px 4px 0;" alt="{{ article.category }}" />
+  <strong style="font-size:0.85em;">{{ article.date }}</strong>
+  <span style="font-size:0.75em; color:#777;"> — {{ article.category }}</span>
+  <p style="font-size:0.85em; margin:4px 0 0 0;">{{ article.headline | markdownify }}</p>
+</div>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/news">... see all News</a></h4>
-
-    </div>

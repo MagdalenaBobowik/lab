@@ -16,39 +16,3 @@ Our flagship project is [**HERMES** (Healing Effects of Role Models for Empowerm
 We are part of the [Department of Social Psychology and Methodology of Behavioural Sciences](https://www.ehu.eus/en/web/psikologia-soziala) at UPV/EHU, and we collaborate closely with international partners in Italy, the Czech Republic, and the Netherlands, as well as civil society organisations working on human rights and migration.
 
 **We welcome inquiries from prospective PhD students and postdoctoral researchers interested in our research areas.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
-
----
-
-## Latest News
-
-{% assign number_printed = 0 %}
-{% for article in site.data.news limit:4 %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ article.image }}" class="img-responsive" width="28%" style="float: left" />
-  <pubtit>{{ article.date }} &mdash; {{ article.category }}</pubtit>
-  <p>{{ article.headline | markdownify }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<p><a href="{{ site.url }}{{ site.baseurl }}/news">See all news &rarr;</a></p>
