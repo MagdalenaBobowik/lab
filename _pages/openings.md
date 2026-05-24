@@ -26,4 +26,8 @@ We occasionally supervise master's and bachelor's theses. If you are a student a
 
 ---
 
-To get in touch, email the PIs at [magdalena.bobowik@ehu.eus](mailto:magdalena.bobowik@ehu.eus) or [maitane.arnoso@ehu.eus](mailto:maitane.arnoso@ehu.eus). Please include a brief description of your research interests and your CV.
+To get in touch, email the PIs — please include a brief description of your research interests and your CV.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/email_bobowik.png" style="height:1.2em; vertical-align:middle;" alt="email" />
+&nbsp;&nbsp;
+<img src="{{ site.url }}{{ site.baseurl }}/images/email_arnoso.png" style="height:1.2em; vertical-align:middle;" alt="email" />
