@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-**Manuscripts are currently in preparation. All pre-registered data and materials are available on our [OSF repository](https://osf.io/6ep39/).**
+All pre-registered data and materials are available on our [OSF repository](https://osf.io/6ep39/).
 
 ## Group highlights
 
