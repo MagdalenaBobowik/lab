@@ -12,121 +12,101 @@ We are committed to bringing research out of the lab and into society. Below are
 
 ---
 
-<div class="outreach-list">
-{% for project in site.data.outreach %}
 <div class="outreach-card">
-  <div class="outreach-accent"></div>
-  <div class="outreach-body">
-    <div class="outreach-title">{{ project.title }}</div>
-    <div class="outreach-funder">{{ project.funder }}</div>
-    {% if project.note %}
-    <div class="outreach-note">{{ project.note }}</div>
-    {% endif %}
-    <div class="outreach-meta">
-      <span class="outreach-dates">
-        {% if project.end != "" %}
-          {{ project.start }} – {{ project.end }}
-        {% else %}
-          {{ project.start }}{% if project.start != "2021" %} – present{% endif %}
-        {% endif %}
-      </span>
-      {% if project.amount != "" %}
-      <span class="outreach-amount">{{ project.amount }}</span>
-      {% endif %}
-      {% if project.role != "" %}
-      <span class="outreach-role">{{ project.role }}</span>
-      {% endif %}
-    </div>
-  </div>
+<div class="outreach-accent"></div>
+<div class="outreach-body">
+<div class="outreach-title">Mamuak kendu: Inseguridad y criminalización de la inmigración</div>
+<div class="outreach-funder">SOS Racismo</div>
+<div class="outreach-meta">
+<span class="outreach-dates">01/12/2025 – present</span>
 </div>
-{% endfor %}
+</div>
 </div>
 
-<style>
-.outreach-list {
-  margin-top: 28px;
-}
+<div class="outreach-card">
+<div class="outreach-accent"></div>
+<div class="outreach-body">
+<div class="outreach-title">Zabaltzen: Political empowerment academy</div>
+<div class="outreach-funder">Basque Agency for Cooperation</div>
+<div class="outreach-meta">
+<span class="outreach-dates">08/01/2024 – 31/12/2025</span>
+<span class="outreach-amount">€11,570.24</span>
+</div>
+</div>
+</div>
 
-.outreach-card {
-  display: flex;
-  align-items: stretch;
-  margin-bottom: 18px;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
-  background: #fff;
-  overflow: hidden;
-  transition: box-shadow 0.2s;
-}
+<div class="outreach-card">
+<div class="outreach-accent"></div>
+<div class="outreach-body">
+<div class="outreach-title">Self-transcendent emotions and intercultural attitudes towards migrant essential workers during the COVID-19 pandemic</div>
+<div class="outreach-funder">Navarra Government</div>
+<div class="outreach-meta">
+<span class="outreach-dates">01/12/2020 – 30/06/2021</span>
+<span class="outreach-amount">€8,263.71</span>
+<span class="outreach-role">PI</span>
+</div>
+</div>
+</div>
 
-.outreach-card:hover {
-  box-shadow: 0 4px 16px rgba(123,50,165,0.13);
-}
+<div class="outreach-card">
+<div class="outreach-accent"></div>
+<div class="outreach-body">
+<div class="outreach-title">Individual and collective responsibility within the context of the COVID-19 pandemic</div>
+<div class="outreach-funder">La Caixa Foundation</div>
+<div class="outreach-note">Divulgative publication. Bobowik, M., Rupar, M., Soler, E. et al. (2021).</div>
+<div class="outreach-meta">
+<span class="outreach-dates">2021</span>
+</div>
+</div>
+</div>
 
-.outreach-accent {
-  width: 6px;
-  flex-shrink: 0;
-  background: linear-gradient(180deg, #7B32A5 0%, #F29E00 100%);
-}
+<div class="outreach-card">
+<div class="outreach-accent"></div>
+<div class="outreach-body">
+<div class="outreach-title">Jauzi Handia: Democratic Culture</div>
+<div class="outreach-funder">Gipuzkoa Provincial Council</div>
+<div class="outreach-meta">
+<span class="outreach-dates">30/09/2019 – 31/12/2020</span>
+<span class="outreach-amount">€14,999</span>
+</div>
+</div>
+</div>
 
-.outreach-body {
-  padding: 16px 20px 14px 20px;
-  flex: 1;
-}
+<div class="outreach-card">
+<div class="outreach-accent"></div>
+<div class="outreach-body">
+<div class="outreach-title">Ikaprest: Assessment of social mentoring interventions</div>
+<div class="outreach-funder">Gipuzkoa Provincial Council</div>
+<div class="outreach-meta">
+<span class="outreach-dates">15/09/2019 – 15/12/2019</span>
+<span class="outreach-amount">€5,882.35</span>
+<span class="outreach-role">PI</span>
+</div>
+</div>
+</div>
 
-.outreach-title {
-  font-weight: bold;
-  font-size: 1.01em;
-  color: #7B32A5;
-  margin-bottom: 4px;
-  line-height: 1.4;
-}
+<div class="outreach-card">
+<div class="outreach-accent"></div>
+<div class="outreach-body">
+<div class="outreach-title">Refugees: Reflexions and perceptions</div>
+<div class="outreach-funder">Gipuzkoa Provincial Council + Basque Government</div>
+<div class="outreach-meta">
+<span class="outreach-dates">01/06/2018 – 30/06/2019</span>
+<span class="outreach-amount">€14,380</span>
+<span class="outreach-role">PI</span>
+</div>
+</div>
+</div>
 
-.outreach-funder {
-  font-size: 0.93em;
-  color: #555;
-  margin-bottom: 6px;
-}
-
-.outreach-note {
-  font-size: 0.88em;
-  color: #777;
-  font-style: italic;
-  margin-bottom: 6px;
-}
-
-.outreach-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  align-items: center;
-  margin-top: 4px;
-}
-
-.outreach-dates {
-  font-size: 0.85em;
-  color: #888;
-  background: #f5f5f5;
-  padding: 2px 9px;
-  border-radius: 20px;
-  border: 1px solid #e8e8e8;
-}
-
-.outreach-amount {
-  font-size: 0.85em;
-  font-weight: bold;
-  color: #B05A00;
-  background: #fff7ed;
-  padding: 2px 9px;
-  border-radius: 20px;
-  border: 1px solid #ffe0b0;
-}
-
-.outreach-role {
-  font-size: 0.82em;
-  color: #7B32A5;
-  background: #f3eafc;
-  padding: 2px 9px;
-  border-radius: 20px;
-  border: 1px solid #ddc8f5;
-}
-</style>
+<div class="outreach-card">
+<div class="outreach-accent"></div>
+<div class="outreach-body">
+<div class="outreach-title">Voice 4 migrants</div>
+<div class="outreach-funder">Europe for Citizens Programme of the European Union</div>
+<div class="outreach-meta">
+<span class="outreach-dates">01/06/2018 – 30/06/2019</span>
+<span class="outreach-amount">€137,500</span>
+<span class="outreach-role">Country coordinator (representing SOS Racismo)</span>
+</div>
+</div>
+</div>
