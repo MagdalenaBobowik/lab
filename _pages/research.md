@@ -8,42 +8,98 @@ permalink: /research/
 
 # Research
 
-Our research sits at the intersection of social psychology, intergroup relations, and social justice. We study how people perceive social disadvantage, how solidarity forms across group boundaries, and how narratives can be harnessed as tools for social change.
-
-## HERMES Project
-
-**Healing Effects of Role Models for Empowerment and Solidarity**
-
-Can stories about individuals from disadvantaged groups who overcome systemic barriers shift attitudes and inspire solidarity? The [HERMES project](https://hermesproject.es/) investigates this question through two complementary lenses:
-
-1. **Advantaged groups** — Can role model narratives shift perceptions of disadvantaged group empowerment and generate support for solidarity initiatives?
-2. **Marginalized communities** — Can these same narratives foster a sense of collective empowerment and encourage solidarity behaviour from within?
-
-We test these questions using three complementary methods:
-- **Online experiments** — controlled, large-scale studies of narrative effects
-- **Field experiments** — interventions embedded in real exhibition settings
-- **Virtual Reality (VR) interventions** — immersive experiences to study empathy, perspective-taking, and behaviour change
-
-HERMES is funded by the Spanish Ministry of Science and Universities (PID2023-151315OA-100) and pre-registered data is available on the [OSF repository](https://osf.io/6ep39/).
+Our work sits at the intersection of social psychology, intergroup relations, and social justice. We study how people perceive disadvantage, how solidarity forms across group boundaries, and how emotions, identities, and narratives shape social change. Our research spans six interconnected lines.
 
 ---
 
-## Core Research Themes
+## 1. Discrimination and Stigma
 
-### Social Justice & Solidarity
-We study the psychological underpinnings of solidarity behaviour — when do advantaged group members act in support of disadvantaged ones, and why? We examine the role of emotions, group identity, and narrative framing in shaping genuine helping behaviour versus superficial support.
+Discrimination is not only a social injustice — it has measurable consequences for the health, well-being, and agency of those who experience it. We examine how stigma and structural discrimination operate against frequently criminalised groups, and what can be done to reduce them.
 
-### Empowerment & Collective Action
-How do marginalised groups develop a sense of collective agency? We investigate the role of role model narratives, collective memory, and political context in fostering empowerment and motivating collective action.
+**Stigma and migrants.** We study stereotyping and criminalisation processes against migrant populations — including perceptions of dangerousness, and their consequences for social cohesion and collective action. A particular focus is on migrant women in domestic and care work, examining how intersectional discrimination affects mental health and civic participation. This work connects experimental and survey methods with qualitative approaches, and is developed in collaboration with civil society organisations including SOS Racismo Gipuzkoa.
 
-### Intergroup Contact & Migration
-We study how intergroup contact — real and imagined — affects the well-being, integration, and empowerment of immigrant communities, with a focus on women and linguistic minorities in the Basque Country.
+**Stigma of schizophrenia.** We compare cognitive, affective, and behavioural responses toward people living with schizophrenia among nursing professionals and the general public. We identify which factors maintain stigma, and how interventions — including academic training and contact-based approaches — can reduce it.
 
-### Collective Memory & Transitional Justice
-In post-conflict societies, how do communities construct shared memories of political violence? We examine how collective memory processes relate to reconciliation, forgiveness, and democratic culture.
+*Key questions:* How do criminalisation and hate speech shape attitudes toward migrants? What are the mental health consequences of perceived discrimination? How do intersecting identities (gender, ethnicity, migration status) compound stigma?
 
 ---
 
-## Methods & Open Science
+## 2. Intergroup Interactions and Alliances
 
-We are committed to open and reproducible science. We pre-register our studies, share materials and data where possible, and report null results alongside positive findings. All project data is accessible via our [OSF repository](https://osf.io/6ep39/).
+Beyond prejudice reduction, we ask how contact and shared identities generate genuine solidarity and empower disadvantaged communities.
+
+**Multicultural experiences.** We develop a multidimensional taxonomy of multicultural experiences — intercultural social networks, diversity climates, acculturation contexts — and examine their differentiated effects on creativity, intergroup attitudes, and well-being.
+
+**Coalitional identities.** Drawing on qualitative interviews and online surveys, we explore how migrants in Spain build shared cross-group identities and participate in allied collective action (e.g., migrant–feminist alliances). We design and evaluate interventions to promote these coalitional identities.
+
+**Linguistic acculturation.** We examine how social representations of immigrants' linguistic integration and perceived linguistic threat shape majority group attitudes in multilingual contexts such as the Basque Country and Catalonia.
+
+**Intergroup contact and well-being.** Through survey and field studies with migrant women, we investigate how the quality and quantity of contact — with the majority group, within minority communities, and across minority groups — relates to psychological well-being, group empowerment, and prosocial engagement. The *Emakume Loturak* participatory programme, developed in collaboration with Moviltik, offers a real-world test case.
+
+**Contact and schizophrenia.** We explore how positive intergroup contact reduces stigma toward people living with schizophrenia, with a focus on the mediating role of empathy and intergroup anxiety.
+
+*Key questions:* Under what conditions does intergroup contact empower rather than merely include? How do coalitional identities sustain alliances across disadvantaged communities?
+
+---
+
+## 3. Empowerment Narratives and Intergroup Solidarity
+
+Can stories change minds — and move people to act? This is the central question of the [**HERMES project**](https://hermesproject.es/), funded by the Spanish Ministry of Science and Universities.
+
+We investigate whether narratives about role models from disadvantaged groups — people who resist systemic discrimination and defy structural barriers — can catalyse social change in two directions: shifting attitudes among advantaged groups, and strengthening collective empowerment within disadvantaged communities.
+
+**Migrants.** Working with large-scale online experiments and ecologically valid field settings, we test how individual versus collective empowerment narratives shape solidarity intentions and group empowerment among both migrants and host-culture members.
+
+**Migrant women in care work.** Co-created with partner organisations, these narratives are tested experimentally and presented in audiovisual exhibition formats to assess their effects on solidarity and collective action.
+
+**Women in the music industry.** We explore empowerment narratives of women and dissidents in the music industry and their effects on intra- and intergroup solidarity, in collaboration with cultural festivals and artistic collectives.
+
+**Mental health.** We study the use of empowerment narratives by people with mental disorders as tools for reducing stigma and fostering solidarity.
+
+**Indigenous peoples.** Focusing on communities in Peru, we examine how indigenous resistance narratives generate intergroup solidarity and decolonial alliances, including transfer effects to other discriminated groups.
+
+HERMES connects experimental science with real-world interventions — including immersive virtual reality experiences and co-designed audiovisual exhibitions — to measure genuine solidarity behaviour beyond self-report.
+
+*Key questions:* When do role model narratives shift perceptions of empowerment among advantaged groups? How do collective (vs. individual) narratives affect in-group empowerment? What makes solidarity behaviour real and lasting?
+
+---
+
+## 4. Emotions in Intergroup and Social Contexts
+
+Emotions are not just reactions — they shape how we perceive, judge, and respond to members of other groups. We study emotional expression and self-transcendent emotions as forces in intergroup relations.
+
+**Nonverbal emotional expression.** Building on research showing that facial expressions (e.g., smiling, crying) toward outgroup members affect cognitive, affective, and behavioural responses, we examine how political orientation and group membership moderate these effects. We also investigate the role of victims' emotional expression in intergroup forgiveness and punishment support, and how empathic nonverbal gestures (e.g., physical contact) promote solidarity with migrants.
+
+**Self-transcendent emotions.** Emotions such as awe, compassion, and gratitude expand the boundaries of the self and promote prosocial behaviour. We examine how these emotions relate to superordinate identification, global solidarity, and well-being — particularly in contexts of cultural diversity and crisis. This includes cross-cultural studies and the validation of emotion measures sensitive to social elicitors of awe.
+
+*Key questions:* How does emotional expression shape intergroup attitudes and solidarity? Can self-transcendent emotions reduce intergroup boundaries and promote inclusive identities?
+
+---
+
+## 5. Social Rituals and Collective Emotions
+
+Collective rituals — from concerts to community gatherings — generate *collective effervescence* (CE): a heightened emotional state arising from shared synchrony between participants. Prior work in our group has shown CE contributes to well-being and social cohesion.
+
+We investigate which individual factors (e.g., personality, self-construal) and contextual factors (e.g., group size, degree of ritualisation, positive vs. dysphoric events) modulate the experience of CE and its effects. Longitudinal and experimental designs allow us to assess how CE predicts personal and social well-being over time, and under what minimal conditions collective encounters generate perceived emotional synchrony and group cohesion.
+
+*Key questions:* Who experiences collective effervescence most intensely, and why? How do rituals translate into lasting well-being and social bonds?
+
+---
+
+## 6. Collective Memory, Violence, and Social Justice
+
+Historical memory shapes present-day intergroup relations. This line examines how colonial legacies, transitional justice institutions, and peace processes configure attitudes toward reconciliation, solidarity, and political self-determination.
+
+**Collective memory and reconciliation.** We study how historical analogies, acknowledgement of past crimes, and collective apologies influence intergroup solidarity, reconciliation, and forgiveness in post-conflict contexts. This includes multi-country European studies and research on colonial legacies and their effects on contemporary conflicts.
+
+**Transitional justice in Colombia.** We evaluate citizens' perceptions of the Colombian peace process, the capacity of transitional institutions to generate political trust, and the role of media representations in shaping public understanding of justice and peace (2016–present).
+
+**Psychosocial bases of secessionism.** Using latent profile analysis and experimental designs, we identify patterns of national and ethnic identity and examine how collective relative deprivation, perceived threat, and meta-perceptions of indispensability predict support for secessionist movements and their preferred means — institutional, non-violent, or violent.
+
+*Key questions:* How do historical injustices travel into present-day intergroup conflict? Under what conditions do transitional justice mechanisms build political trust? What psychological factors distinguish support for peaceful versus violent secessionism?
+
+---
+
+## Open Science
+
+We are committed to transparent and reproducible research. We pre-register our studies, share data, code, and materials on [OSF](https://osf.io/6ep39/), and report null findings alongside positive results.
