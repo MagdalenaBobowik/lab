@@ -10,7 +10,7 @@ img { margin-bottom: 24px;
 
 
 body {
-	padding-top: 70px;
+	/* padding-top set by navbar rule above */
 }
 
 figcaption {
@@ -22,6 +22,10 @@ figcaption {
 
 
 /* Top navigation bar */
+.navbar { min-height: 70px; }
+.navbar-brand { padding: 9px 15px; }
+.navbar-nav > li > a { padding-top: 24px; padding-bottom: 24px; }
+body { padding-top: 70px; }
 
 
 p.byline {
