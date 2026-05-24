@@ -1,8 +1,16 @@
-- date: May 2026
+# Most recent first
+
+- date: "May 2026"
+  category: Conference
+  image: news_conference.png
   headline: "HERMES presented two talks at the [EASP Small Meeting](https://www.easp.eu) in Granada, exploring how narratives of migrant collective action and Indigenous empowerment shape solidarity, emotions, and real-world ally behaviour."
 
-- date: May 2026
-  headline: "Irene Cisma presented her research on migrant empowerment narratives and solidarity at the **Collective Action Network Online Meeting 2025**, as part of a blitz session on solidarity and migration."
+- date: "May 2026"
+  category: Conference
+  image: news_conference.png
+  headline: "Irene Cisma presented her research on migrant empowerment narratives and solidarity at the **Collective Action Network Online Meeting**, as part of a blitz session on solidarity and migration."
 
-- date: 2024
+- date: "2024"
+  category: Project
+  image: news_project.png
   headline: "HERMES project launched, funded by the Spanish Ministry of Science and Universities (PID2023-151315OA-100)."

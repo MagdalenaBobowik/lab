@@ -17,3 +17,38 @@ We are part of the [Department of Social Psychology and Methodology of Behaviour
 
 **We welcome inquiries from prospective PhD students and postdoctoral researchers interested in our research areas.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
+---
+
+## Latest News
+
+{% assign number_printed = 0 %}
+{% for article in site.data.news limit:4 %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ article.image }}" class="img-responsive" width="28%" style="float: left" />
+  <pubtit>{{ article.date }} &mdash; {{ article.category }}</pubtit>
+  <p>{{ article.headline | markdownify }}</p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p><a href="{{ site.url }}{{ site.baseurl }}/news">See all news &rarr;</a></p>
