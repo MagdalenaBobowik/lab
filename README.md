@@ -1,11 +1,32 @@
-# Allan Lab Website
+# Bobowik Lab Website
 
-This is the website of our academic research group at Leiden University.
+This is the website of the **Bobowik Lab** — the Culture, Cognition & Emotion research group at the University of the Basque Country (UPV/EHU), led by Dr. Magdalena Bobowik.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+The site is built with [Jekyll](https://jekyllrb.com/) and Bootstrap, based on the [Allan Lab template](https://www.allanlab.org/aboutwebsite.html).
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+## Running locally
 
+```bash
+jekyll serve
+```
 
-Copyright Allan Lab. Code released under the MIT License.
+Then open `http://localhost:4000` in your browser.
 
+## Structure
+
+- `_pages/` — content pages (home, team, research, publications, teaching, openings)
+- `_data/` — YAML data files for team members, students, publications, and news
+- `_layouts/` — page layouts
+- `_includes/` — shared partials (header, footer, news sidebar)
+- `images/` — photos organised into `teampic/`, `logopic/`, `slider7001400/`, `pubpic/`
+
+## Adding content
+
+- **Team members** → edit `_data/team_members.yml`; add photos to `images/teampic/`
+- **PhD students** → edit `_data/students.yml`
+- **News** → edit `_data/news.yml`
+- **Publications** → edit `_data/publist.yml`
+
+---
+
+Template originally by the Allan Lab. Code released under the MIT License.
