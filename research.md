@@ -57,15 +57,6 @@ HERMES connects experimental science with real-world interventions — including
 
 ## 2. Intergroup Interactions and Alliances
 
-<div class="res-funding-col">
-<div class="res-project-card team-card">
-<div class="res-project-badge">Team member</div>
-<div class="res-project-name">Dignified work, dignified care</div>
-<div class="res-project-funder">Kutxa Fundazioa</div>
-<div class="res-project-meta">2024–2025 · €72,588</div>
-</div>
-</div>
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_interactions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Beyond prejudice reduction, we ask how contact and shared identities generate genuine solidarity and empower disadvantaged communities.
@@ -87,6 +78,15 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 ---
 
 ## 3. Discrimination and Stigma
+
+<div class="res-funding-col">
+<div class="res-project-card team-card">
+<div class="res-project-badge">Team member</div>
+<div class="res-project-name">Dignified work, dignified care</div>
+<div class="res-project-funder">Kutxa Fundazioa</div>
+<div class="res-project-meta">2024–2025 · €72,588</div>
+</div>
+</div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
