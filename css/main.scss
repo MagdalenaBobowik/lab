@@ -90,11 +90,11 @@ firstp {
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 
-/* Round team photos — stacked above text so description fills full column width */
+/* Square team photos — stacked above text so description fills full column width */
 img.teampic {
-  width: 100px !important;
-  height: 100px !important;
-  border-radius: 50% !important;
+  width: 160px !important;
+  height: 160px !important;
+  border-radius: 6px !important;
   object-fit: cover;
   display: block;
   float: none !important;
