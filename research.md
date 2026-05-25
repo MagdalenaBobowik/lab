@@ -14,17 +14,7 @@ Our work lies at the intersection of social psychology, intergroup relations, an
 
 ## 1. Empowerment Narratives and Intergroup Solidarity
 
-<div class="res-funding-col">
-<div class="res-project-card pi-card">
-<div class="res-project-badge">PI</div>
-<div class="res-project-name">HERMES: Healing effects of role models for empowerment and solidarity</div>
-<div class="res-project-funder">Ministry of Science, Innovation and Universities</div>
-<div class="res-project-meta">PID2023-151315OA-I00 · 2024–2027 · €166,625 + 1 FPI</div>
-</div>
-</div>
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_narratives.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
-
 
 Can stories change minds — and move people to act? This is the central question of the [**HERMES project**](https://hermesproject.es/), funded by the Spanish Ministry of Science and Universities.
 
@@ -72,15 +62,6 @@ Beyond prejudice reduction, we ask how contact and shared identities generate ge
 
 ## 3. Discrimination and Stigma
 
-<div class="res-funding-col">
-<div class="res-project-card team-card">
-<div class="res-project-badge">Team member</div>
-<div class="res-project-name">Dignified work, dignified care</div>
-<div class="res-project-funder">Kutxa Fundazioa</div>
-<div class="res-project-meta">2024–2025 · €72,588</div>
-</div>
-</div>
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_discrimination.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
 Discrimination is not only a social injustice — it has measurable consequences for the health, well-being, and agency of those who experience it. We examine how stigma and structural discrimination operate against frequently criminalised groups, and what can be done to reduce them.
@@ -96,15 +77,6 @@ Discrimination is not only a social injustice — it has measurable consequences
 ---
 
 ## 4. Collapse Narratives and Collective Action
-
-<div class="res-funding-col">
-<div class="res-project-card pi-card">
-<div class="res-project-badge">PI</div>
-<div class="res-project-name">bloom4action: Effects of Collapse Narratives on Engagement with Climate Action</div>
-<div class="res-project-funder">University of the Basque Country EHU</div>
-<div class="res-project-meta">US25/33 · 2026–2027 · €36,000</div>
-</div>
-</div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_collapse.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
@@ -123,27 +95,6 @@ How do people respond — emotionally and behaviourally — when confronted with
 ---
 
 ## 5. Emotions in Intergroup and Social Contexts
-
-<div class="res-funding-col">
-<div class="res-project-card pi-card">
-<div class="res-project-badge">PI</div>
-<div class="res-project-name">Unspoken stories: emotional tears in portraits of refugees</div>
-<div class="res-project-funder">Utrecht University</div>
-<div class="res-project-meta">2021–2022 · €9,996</div>
-</div>
-<div class="res-project-card pi-card">
-<div class="res-project-badge">PI</div>
-<div class="res-project-name">From TEARs to AID: emotional tears and helping in crowdfunding</div>
-<div class="res-project-funder">European Commission — Marie Skłodowska-Curie IF</div>
-<div class="res-project-meta">896377 · 2021–2022 · €175,572.48</div>
-</div>
-<div class="res-project-card pi-card">
-<div class="res-project-badge">PI</div>
-<div class="res-project-name">Responsibility, behaviour, and support for policies in face of COVID-19</div>
-<div class="res-project-funder">Social Observatory "La Caixa" Foundation</div>
-<div class="res-project-meta">LL2020-2 · 2020–2021 · €17,000</div>
-</div>
-</div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_emotions.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
@@ -174,15 +125,6 @@ We investigate which individual factors (e.g., personality, self-construal) and 
 ---
 
 ## 7. Collective Memory, Violence, and Social Justice
-
-<div class="res-funding-col">
-<div class="res-project-card team-card">
-<div class="res-project-badge">Team member</div>
-<div class="res-project-name">Social-psychological underpinnings of support for secession in post-conflict contexts</div>
-<div class="res-project-funder">German Foundation for Peace Research</div>
-<div class="res-project-meta">2026–2027 · €50,000</div>
-</div>
-</div>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/res_memory.png" style="float:left; width:160px; margin:0 24px 16px 0; border-radius:4px;" />
 
