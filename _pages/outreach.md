@@ -12,77 +12,51 @@ We are committed to bringing research out of the lab and into society. Below are
 
 ---
 
-<div class="outreach-card">
-<div class="outreach-title">Mamuak kendu: Inseguridad y criminalización de la inmigración</div>
-<div class="outreach-funder">SOS Racismo</div>
-<div class="outreach-meta">
-<span class="outreach-dates">01/12/2025 – present</span>
-</div>
+<div class="outreach-item">
+<span class="outreach-title">Mamuak kendu: Inseguridad y criminalización de la inmigración</span>
+<span class="outreach-funder">SOS Racismo</span>
+<span class="outreach-meta">01/12/2025 – present</span>
 </div>
 
-<div class="outreach-card">
-<div class="outreach-title">Zabaltzen: Political empowerment academy</div>
-<div class="outreach-funder">Basque Agency for Cooperation</div>
-<div class="outreach-meta">
-<span class="outreach-dates">08/01/2024 – 31/12/2025</span>
-<span class="outreach-amount">€11,570.24</span>
-</div>
+<div class="outreach-item">
+<span class="outreach-title">Zabaltzen: Political empowerment academy</span>
+<span class="outreach-funder">Basque Agency for Cooperation</span>
+<span class="outreach-meta">08/01/2024 – 31/12/2025 &nbsp;·&nbsp; €11,570.24</span>
 </div>
 
-<div class="outreach-card">
-<div class="outreach-title">Self-transcendent emotions and intercultural attitudes towards migrant essential workers during the COVID-19 pandemic</div>
-<div class="outreach-funder">Navarra Government</div>
-<div class="outreach-meta">
-<span class="outreach-dates">01/12/2020 – 30/06/2021</span>
-<span class="outreach-amount">€8,263.71</span>
-<span class="outreach-role">PI</span>
-</div>
+<div class="outreach-item">
+<span class="outreach-title">Self-transcendent emotions and intercultural attitudes towards migrant essential workers during the COVID-19 pandemic</span>
+<span class="outreach-funder">Navarra Government</span>
+<span class="outreach-meta">01/12/2020 – 30/06/2021 &nbsp;·&nbsp; €8,263.71 &nbsp;·&nbsp; PI</span>
 </div>
 
-<div class="outreach-card">
-<div class="outreach-title">Individual and collective responsibility within the context of the COVID-19 pandemic</div>
-<div class="outreach-funder">La Caixa Foundation</div>
-<div class="outreach-note">Divulgative publication. Bobowik, M., Rupar, M., Soler, E. et al. (2021).</div>
-<div class="outreach-meta">
-<span class="outreach-dates">2021</span>
-</div>
+<div class="outreach-item">
+<span class="outreach-title">Individual and collective responsibility within the context of the COVID-19 pandemic</span>
+<span class="outreach-funder">La Caixa Foundation</span>
+<span class="outreach-note">Divulgative publication. Bobowik, M., Rupar, M., Soler, E. et al. (2021).</span>
+<span class="outreach-meta">2021</span>
 </div>
 
-<div class="outreach-card">
-<div class="outreach-title">Jauzi Handia: Democratic Culture</div>
-<div class="outreach-funder">Gipuzkoa Provincial Council</div>
-<div class="outreach-meta">
-<span class="outreach-dates">30/09/2019 – 31/12/2020</span>
-<span class="outreach-amount">€14,999</span>
-</div>
+<div class="outreach-item">
+<span class="outreach-title">Jauzi Handia: Democratic Culture</span>
+<span class="outreach-funder">Gipuzkoa Provincial Council</span>
+<span class="outreach-meta">30/09/2019 – 31/12/2020 &nbsp;·&nbsp; €14,999</span>
 </div>
 
-<div class="outreach-card">
-<div class="outreach-title">Ikaprest: Assessment of social mentoring interventions</div>
-<div class="outreach-funder">Gipuzkoa Provincial Council</div>
-<div class="outreach-meta">
-<span class="outreach-dates">15/09/2019 – 15/12/2019</span>
-<span class="outreach-amount">€5,882.35</span>
-<span class="outreach-role">PI</span>
-</div>
+<div class="outreach-item">
+<span class="outreach-title">Ikaprest: Assessment of social mentoring interventions</span>
+<span class="outreach-funder">Gipuzkoa Provincial Council</span>
+<span class="outreach-meta">15/09/2019 – 15/12/2019 &nbsp;·&nbsp; €5,882.35 &nbsp;·&nbsp; PI</span>
 </div>
 
-<div class="outreach-card">
-<div class="outreach-title">Refugees: Reflexions and perceptions</div>
-<div class="outreach-funder">Gipuzkoa Provincial Council + Basque Government</div>
-<div class="outreach-meta">
-<span class="outreach-dates">01/06/2018 – 30/06/2019</span>
-<span class="outreach-amount">€14,380</span>
-<span class="outreach-role">PI</span>
-</div>
+<div class="outreach-item">
+<span class="outreach-title">Refugees: Reflexions and perceptions</span>
+<span class="outreach-funder">Gipuzkoa Provincial Council + Basque Government</span>
+<span class="outreach-meta">01/06/2018 – 30/06/2019 &nbsp;·&nbsp; €14,380 &nbsp;·&nbsp; PI</span>
 </div>
 
-<div class="outreach-card">
-<div class="outreach-title">Voice 4 migrants</div>
-<div class="outreach-funder">Europe for Citizens Programme of the European Union</div>
-<div class="outreach-meta">
-<span class="outreach-dates">01/06/2018 – 30/06/2019</span>
-<span class="outreach-amount">€137,500</span>
-<span class="outreach-role">Country coordinator (representing SOS Racismo)</span>
-</div>
+<div class="outreach-item">
+<span class="outreach-title">Voice 4 migrants</span>
+<span class="outreach-funder">Europe for Citizens Programme of the European Union</span>
+<span class="outreach-meta">01/06/2018 – 30/06/2019 &nbsp;·&nbsp; €137,500 &nbsp;·&nbsp; Country coordinator (representing SOS Racismo)</span>
 </div>
