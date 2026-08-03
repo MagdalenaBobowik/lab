@@ -1,7 +1,7 @@
 ---
-title: "Intergroup Dynamics Lab - Home"
+title: "Common Futures Research Collective - Home"
 layout: homelay
-excerpt: "Intergroup Dynamics Lab at UPV/EHU"
+excerpt: "Common Futures Research Collective at UPV/EHU"
 sitemap: false
 permalink: /
 ---

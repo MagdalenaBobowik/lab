@@ -1,7 +1,7 @@
 ---
-title: "Intergroup Dynamics Lab - News"
+title: "Common Futures Research Collective - News"
 layout: gridlay
-excerpt: "Intergroup Dynamics Lab – News"
+excerpt: "Common Futures Research Collective – News"
 sitemap: false
 permalink: /news/
 ---

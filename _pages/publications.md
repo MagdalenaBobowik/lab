@@ -1,7 +1,7 @@
 ---
-title: "Intergroup Dynamics Lab - Publications"
+title: "Common Futures Research Collective - Publications"
 layout: gridlay
-excerpt: "Intergroup Dynamics Lab -- Publications."
+excerpt: "Common Futures Research Collective -- Publications."
 sitemap: false
 permalink: /publications/
 ---

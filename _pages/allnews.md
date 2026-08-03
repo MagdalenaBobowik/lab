@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Intergroup Dynamics Lab at Leiden University."
+excerpt: "Common Futures Research Collective at Leiden University."
 sitemap: false
 permalink: /allnews.html
 published: false

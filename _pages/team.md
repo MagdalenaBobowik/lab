@@ -1,7 +1,7 @@
 ---
-title: "Intergroup Dynamics Lab - Team"
+title: "Common Futures Research Collective - Team"
 layout: gridlay
-excerpt: "Intergroup Dynamics Lab: Team members"
+excerpt: "Common Futures Research Collective: Team members"
 sitemap: false
 permalink: /team/
 ---

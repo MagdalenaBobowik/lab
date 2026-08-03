@@ -1,5 +1,5 @@
 ---
-title: "Intergroup Dynamics Lab - Vacancies"
+title: "Common Futures Research Collective - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

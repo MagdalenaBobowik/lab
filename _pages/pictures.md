@@ -1,7 +1,7 @@
 ---
-title: "Intergroup Dynamics Lab - Pictures"
+title: "Common Futures Research Collective - Pictures"
 layout: piclay
-excerpt: "Intergroup Dynamics Lab -- Pictures"
+excerpt: "Common Futures Research Collective -- Pictures"
 permalink: /pictures/
 ---
 

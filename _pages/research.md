@@ -1,7 +1,7 @@
 ---
-title: "Intergroup Dynamics Lab - Research"
+title: "Common Futures Research Collective - Research"
 layout: textlay
-excerpt: "Intergroup Dynamics Lab – Research"
+excerpt: "Common Futures Research Collective – Research"
 sitemap: false
 permalink: /research/
 published: false

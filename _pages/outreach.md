@@ -1,7 +1,7 @@
 ---
-title: "Intergroup Dynamics Lab - Outreach"
+title: "Common Futures Research Collective - Outreach"
 layout: textlay
-excerpt: "Intergroup Dynamics Lab – Outreach & Knowledge Transfer"
+excerpt: "Common Futures Research Collective – Outreach & Knowledge Transfer"
 sitemap: false
 permalink: /outreach/
 ---
