@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a social psychology research group at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/), part of the **Culture, Cognition, and Emotion** Consolidated Research Group (IT1598-22).
+We are a social psychology research group at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/), part of the Consolidated Research Group **“Lotuneak: Human Bonds for Change”** (Grant Number: IT1797-26), supported by the Basque Government. Our lab belongs to the research line **Intergroup Relations and Social Participation**.
 
 Our research investigates **social justice, diversity, and solidarity** in multicultural and post-conflict societies. We study how people perceive and respond to social disadvantage, and how narratives — especially those centred on role models from marginalised communities — can catalyse empowerment and social change. To do this, we combine online experiments, field experiments in exhibition settings, and Virtual Reality (VR) interventions.
 
