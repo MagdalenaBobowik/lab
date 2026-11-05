@@ -11,66 +11,12 @@ permalink: /team/
  **We are looking for new PhD students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [principal investigators](#principal-investigators), [professors](#professors), [postdoctoral researchers](#postdoctoral-researchers), [phd candidates](#phd-candidates), [international collaborators](#international-collaborators).
+Jump to [members](#members), [international collaborators](#international-collaborators).
 
-## Principal Investigators
+## Members
+{% assign all_members = site.data.pis | concat: site.data.professors | concat: site.data.postdocs | concat: site.data.phd_students %}
 {% assign number_printed = 0 %}
-{% for member in site.data.pis %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive teampic" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  <li> {{ member.education3 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  <li> {{ member.education3 | markdownify}} </li>
-  <li> {{ member.education4 | markdownify}} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-## Professors
-{% assign number_printed = 0 %}
-{% for member in site.data.professors %}
+{% for member in all_members %}
 
 {% assign mod3 = number_printed | modulo: 3 %}
 
@@ -81,18 +27,12 @@ Jump to [principal investigators](#principal-investigators), [professors](#profe
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive teampic" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
-
+  {% if member.education1 %}<li> {{ member.education1 | markdownify }} </li>{% endif %}
+  {% if member.education2 %}<li> {{ member.education2 | markdownify }} </li>{% endif %}
+  {% if member.education3 %}<li> {{ member.education3 | markdownify }} </li>{% endif %}
+  {% if member.education4 %}<li> {{ member.education4 | markdownify }} </li>{% endif %}
   </ul>
 </div>
 
@@ -110,101 +50,7 @@ Jump to [principal investigators](#principal-investigators), [professors](#profe
 {% endif %}
 
 
-## Postdoctoral Researchers
-{% assign number_printed = 0 %}
-{% for member in site.data.postdocs %}
-
-{% assign mod3 = number_printed | modulo: 3 %}
-
-{% if mod3 == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive teampic" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  <li> {{ member.education3 | markdownify}} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if mod3 == 2 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign mod3 = number_printed | modulo: 3 %}
-{% if mod3 != 0 %}
-</div>
-{% endif %}
-
-
-## PhD Candidates
-{% assign number_printed = 0 %}
-{% for member in site.data.phd_students %}
-
-{% assign mod4 = number_printed | modulo: 4 %}
-
-{% if mod4 == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive teampic" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  <li> {{ member.education3 | markdownify}} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if mod4 == 3 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign mod4 = number_printed | modulo: 4 %}
-{% if mod4 != 0 %}
-</div>
-{% endif %}
-
+<hr style="margin: 40px 0;">
 
 ## International Collaborators
 
